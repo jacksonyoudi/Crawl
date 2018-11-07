@@ -1,0 +1,741 @@
+company,website,symbol,dividend,announcement_date,record_date,ex_date,pay_date
+Alliance Resource Partners LP,http://www.arlp.com,ARLP,0.525,2018-10-26,2018-11-07,2018-11-06,2018-11-14
+AMCON Distributing Co,http://www.amcon.com,DIT,0.18,2018-10-23,2018-11-07,2018-11-06,2018-11-27
+Aptiv PLC,http://www.aptiv.com,APTV,0.22,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Archrock Inc,http://www.archrock.com,AROC,0.132,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+BankFinancial Corp,http://bankfinancial.com,BFIN,0.1,2018-10-26,2018-11-07,2018-11-06,2018-11-23
+BGC Partners Inc,http://www.bgcpartners.com,BGCP,0.18,2018-10-30,2018-11-07,2018-11-06,2018-11-28
+Cabot Oil & Gas Corp,http://www.cabotog.com,COG,0.07,2018-10-26,2018-11-07,2018-11-06,2018-11-16
+Columbia Banking System Inc,http://www.columbiabank.com,COLB,0.26,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Columbia Banking System Inc,http://www.columbiabank.com,COLB,0.14,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Commercial Metals Co,http://www.cmc.com,CMC,0.12,2018-10-23,2018-11-07,2018-11-06,2018-11-21
+Crestwood Equity Partners LP,http://www.crestwoodlp.com,CEQP,0.6,2018-10-18,2018-11-07,2018-11-06,2018-11-14
+Cypress Energy Partners LP,http://www.cypressenergy.com,CELP,0.21,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Delta Air Lines Inc,http://www.delta.com,DAL,0.35,2018-10-24,2018-11-07,2018-11-06,2018-11-28
+Employers Holdings Inc,http://www.employers.com,EIG,0.2,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Enbridge Energy Partners LP,http://www.enbridgepartners.com,EEP,0.35,2018-10-24,2018-11-07,2018-11-06,2018-11-14
+First Bancshares Inc,http://www.thefirstbank.com,FBMS,0.05,2018-10-24,2018-11-07,2018-11-06,2018-11-23
+First Mid-Illinois Bancshares Inc,http://www.firstmid.com,FMBH,0.36,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+FirstEnergy Corp,http://www.firstenergycorp.com,FE,0.36,2018-09-18,2018-11-07,2018-11-06,2018-12-01
+Golar LNG Partners LP,http://www.golarlngpartners.com,GMLP,0.4042,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Green Bancorp Inc,http://www.greenbank.com,GNBC,0.1,2018-10-22,2018-11-07,2018-11-06,2018-11-21
+Heritage Financial Corp,http://www.HF-WA.com,HFWA,0.17,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Heritage Financial Corp,http://www.HF-WA.com,HFWA,0.1,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Intel Corp,http://www.intel.com,INTC,0.3,2018-09-14,2018-11-07,2018-11-06,2018-12-01
+Magellan Midstream Partners LP,http://www.magellanlp.com,MMP,0.9775,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Marketaxess Holdings Inc,http://www.marketaxess.com,MKTX,0.42,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Martin Midstream Partners LP,http://www.martinmidstream.com,MMLP,0.5,2018-10-18,2018-11-07,2018-11-06,2018-11-14
+MDC Holdings Inc,http://ir.richmondamerican.com,MDC,0.3,2018-10-22,2018-11-07,2018-11-06,2018-11-21
+Mid Penn Bancorp Inc,http://www.midpennbank.com,MPB,0.15,2018-10-25,2018-11-07,2018-11-06,2018-11-26
+National Western Life Group Inc,http://www.nationalwesternlife.com,NWLI,0.36,2018-10-23,2018-11-07,2018-11-06,2018-12-03
+Natural Resource Partners LP,http://www.nrplp.com,NRP,0.45,2018-10-24,2018-11-07,2018-11-06,2018-11-14
+Navios Maritime Partners LP,http://www.navios-mlp.com,NMM,0.02,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Newmark Group Inc,http://www.ngkf.com,NMRK,0.09,2018-10-30,2018-11-07,2018-11-06,2018-11-28
+Northern Technologies International Corp,http://www.ntic.com,NTIC,0.12,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Northfield Bancorp Inc,http://www.enorthfield.com,NFBK,0.1,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Richardson Electronics Ltd,http://www.rell.com,RELL,0.06,2018-10-10,2018-11-07,2018-11-06,2018-11-21
+Rush Enterprises Inc,http://www.rushenterprises.com,RUSHA,0.12,2018-10-23,2018-11-07,2018-11-06,2018-12-10
+Seadrill Partners LLC,http://www.seadrillpartners.com,SDLP,0.1,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Sound Financial Bancorp Inc,http://www.soundcb.com,SFBC,0.14,2018-10-26,2018-11-07,2018-11-06,2018-11-21
+Southern Copper Corp,http://www.southerncoppercorp.com,SCCO,0.4,2018-10-19,2018-11-07,2018-11-06,2018-11-21
+Summit Midstream Partners LP,http://www.summitmidstream.com,SMLP,0.575,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Two River Bancorp,http://www.tworiverbank.com,TRCB,0.055,2018-10-23,2018-11-07,2018-11-06,2018-11-28
+VSE Corp,http://www.vsecorp.com,VSEC,0.08,2018-07-30,2018-11-07,2018-11-06,2018-11-21
+West Bancorporation Inc,http://www.westbankstrong.com,WTBA,0.2,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Western New England Bancorp Inc,http://www.westfieldbank.com,WNEB,0.04,2018-10-23,2018-11-07,2018-11-06,2018-11-21
+Winmark Corp,http://www.winmarkcorporation.com,WINA,0.15,2018-10-24,2018-11-07,2018-11-06,2018-12-03
+Wisdom Tree Investments Inc,http://www.wisdomtree.com,WETF,0.03,2018-10-26,2018-11-07,2018-11-06,2018-11-21
+American Airlines Group Inc,http://www.aa.com,AAL,0.1,2018-10-25,2018-11-06,2018-11-05,2018-11-20
+American Midstream Partners LP,http://www.americanmidstream.com,AMID,0.1031,2018-10-25,2018-11-06,2018-11-05,2018-11-14
+Banco Latinoamericano de Comercio Exterior SA,http://www.bladex.com,BLX,0.385,2018-10-25,2018-11-06,2018-11-05,2018-11-20
+Canfor Pulp Products Inc,,CFX:CA,0.0625,2018-10-24,2018-11-06,2018-11-05,2018-11-13
+Canfor Pulp Products Inc,,CFX:CA,2.25,2018-10-24,2018-11-06,2018-11-05,2018-11-13
+Constellation Brands Inc,http://www.cbrands.com,STZ,0.74,2018-10-03,2018-11-06,2018-11-05,2018-11-20
+Delphi Technologies PLC,http://www.delphi.com,DLPH,0.17,2018-10-24,2018-11-06,2018-11-05,2018-11-14
+Dime Community Bancshares Inc,http://www.dime.com,DCOM,0.14,2018-10-26,2018-11-06,2018-11-05,2018-11-13
+Heritage Commerce Corp,http://www.heritagecommercecorp.com,HTBK,0.11,2018-10-25,2018-11-06,2018-11-05,2018-11-20
+Lake Shore Bancorp Inc,http://www.lakeshoresavings.com,LSBK,0.1,2018-10-24,2018-11-06,2018-11-05,2018-11-19
+MetLife Inc,http://www.metlife.com,MET,0.42,2018-10-23,2018-11-06,2018-11-05,2018-12-13
+New York Community Bancorp Inc,http://www.mynycb.com,NYCB,0.17,2018-10-29,2018-11-06,2018-11-05,2018-11-20
+Nextera Energy Partners LP,http://www.nexteraenergypartners.com,NEP,0.45,2018-10-23,2018-11-06,2018-11-05,2018-11-14
+People's Utah Bancorp,http://www.peoplesutah.com,PUB,0.11,2018-10-24,2018-11-06,2018-11-05,2018-11-13
+Reinsurance Group of America Inc,http://www.rgare.com,RGA,0.6,2018-10-25,2018-11-06,2018-11-05,2018-11-27
+Sprague Resources LP,http://www.spragueenergy.com,SRLP,0.6675,2018-10-26,2018-11-06,2018-11-05,2018-11-13
+Suburban Propane Partners LP,http://www.suburbanpropane.com,SPH,0.6,2018-10-25,2018-11-06,2018-11-05,2018-11-13
+Sunoco LP,http://www.sunocolp.com,SUN,0.8255,2018-10-29,2018-11-06,2018-11-05,2018-11-14
+TD Ameritrade Holding Corp,http://www.amtd.com,AMTD,0.3,2018-10-22,2018-11-06,2018-11-05,2018-11-20
+Tompkins Financial Corp,http://www.tompkinsfinancial.com,TMP,0.5,2018-10-19,2018-11-06,2018-11-05,2018-11-15
+USD Partners LP,http://www.usdpartners.com,USDP,0.3575,2018-10-25,2018-11-06,2018-11-05,2018-11-14
+Webster Financial Corp,http://public.websteronline.com,WBS,0.33,2018-10-23,2018-11-06,2018-11-05,2018-11-20
+WSFS Financial Corp,http://www.wsfsbank.com,WSFS,0.11,2018-10-23,2018-11-06,2018-11-05,2018-11-20
+Access National Corp,http://www.accessnationalbank.com,ANCX,0.17,2018-10-25,2018-11-08,2018-11-07,2018-11-23
+Affiliated Managers Group Inc,http://www.amg.com,AMG,0.3,2018-10-29,2018-11-08,2018-11-07,2018-11-21
+American Finance Trust Inc,http://www.americanfinancetrust.com,AFIN,0.0916667,2018-10-01,2018-11-08,2018-11-07,2018-11-15
+Berkshire Hills Bancorp Inc,http://www.berkshirebank.com,BHLB,0.22,2018-10-17,2018-11-08,2018-11-07,2018-11-21
+CONSOL Coal Resources LP,http://www.ccrlp.com,CCR,0.5125,2018-10-25,2018-11-08,2018-11-07,2018-11-15
+Energy Transfer LP,http://www.energytransfer.com,ET,0.305,2018-10-29,2018-11-08,2018-11-07,2018-11-19
+Entergy Corp,http://www.entergy.com,ETR,0.91,2018-10-26,2018-11-08,2018-11-07,2018-12-03
+Falcon Minerals Corp,http://www.falconminerals.com,FLMN,0.095,2018-10-23,2018-11-08,2018-11-07,2018-11-15
+Federated Investors Inc,http://www.federatedinvestors.com,FII,0.27,2018-10-25,2018-11-08,2018-11-07,2018-11-15
+FS Bancorp Inc,http://www.fsbwa.com,FSBW,0.14,2018-10-25,2018-11-08,2018-11-07,2018-11-21
+Guaranty Bancorp,http://www.gbnk.com,GBNK,0.1625,2018-10-29,2018-11-08,2018-11-07,2018-11-15
+LPL Financial Holdings Inc,http://www.lpl.com,LPLA,0.25,2018-10-25,2018-11-08,2018-11-07,2018-11-26
+Mammoth Energy Services Inc,http://www.mammothenergy.com,TUSK,0.125,2018-10-30,2018-11-08,2018-11-07,2018-11-15
+Materion Corp,http://www.materion.com,MTRN,0.105,2018-10-25,2018-11-08,2018-11-07,2018-12-03
+Matson Inc,http://www.matson.com,MATX,0.21,2018-10-25,2018-11-08,2018-11-07,2018-12-06
+MBT Financial Corp,http://www.mbandt.com,MBTF,0.1,2018-10-25,2018-11-08,2018-11-07,2018-11-15
+Navios Maritime Midstream Partners LP,http://www.navios-midstream.com,NAP,0.125,2018-10-24,2018-11-08,2018-11-07,2018-11-14
+NGL Energy Partners LP,http://www.nglenergypartners.com,NGL,0.39,2018-10-23,2018-11-08,2018-11-07,2018-11-14
+NuStar Energy LP,http://www.nustarenergy.com,NS,0.6,2018-10-29,2018-11-08,2018-11-07,2018-11-14
+Oconee Federal Financial Corp,http://www.oconeefederal.com,OFED,0.1,2018-10-29,2018-11-08,2018-11-07,2018-11-21
+PCTEL Inc,http://www.pctel.com,PCTI,0.055,2018-10-26,2018-11-08,2018-11-07,2018-11-15
+Peapack-Gladstone Financial Corp,http://www.pgbank.com,PGC,0.05,2018-10-26,2018-11-08,2018-11-07,2018-11-23
+Resmed Inc,http://www.resmed.com,RMD,0.37,2018-10-25,2018-11-08,2018-11-07,2018-12-13
+Standex International Corp,http://www.standex.com,SXI,0.2,2018-10-25,2018-11-08,2018-11-07,2018-11-27
+Territorial Bancorp Inc,http://www.territorialsavings.net,TBNK,0.22,2018-10-25,2018-11-08,2018-11-07,2018-11-21
+Tower International Inc,http://www.towerinternational.com,TOWR,0.13,2018-10-18,2018-11-08,2018-11-07,2018-12-07
+Wintrust Financial Corp,http://www.wintrust.com,WTFC,0.19,2018-10-25,2018-11-08,2018-11-07,2018-11-23
+1st Constitution Bancorp,http://www.1stconstitution.com,FCCY,0.075,2018-10-19,2018-11-09,2018-11-08,2018-11-22
+American Campus Communities Inc,http://www.americancampus.com,ACC,0.46,2018-10-31,2018-11-12,2018-11-08,2018-11-26
+American Electric Power Company Inc,http://www.aep.com,AEP,0.67,2018-10-23,2018-11-09,2018-11-08,2018-12-10
+American Water Works Company Inc,http://www.amwater.com,AWK,0.455,2018-10-30,2018-11-12,2018-11-08,2018-12-04
+Amerigas Partners LP,http://www.amerigas.com,APU,0.95,2018-10-26,2018-11-09,2018-11-08,2018-11-19
+Apple Inc,http://www.apple.com,AAPL,0.73,2018-11-01,2018-11-12,2018-11-08,2018-11-15
+Bassett Furniture Industries Inc,http://www.bassettfurniture.com,BSET,0.125,2018-10-04,2018-11-09,2018-11-08,2018-11-23
+BB&T Corp,http://www.bbt.com,BBT,0.405,2018-10-22,2018-11-09,2018-11-08,2018-12-03
+Bio-Techne Corp,http://www.bio-techne.com,TECH,0.32,2018-10-30,2018-11-09,2018-11-08,2018-11-23
+BJ's Restaurants Inc,http://www.bjsrestaurants.com,BJRI,0.12,2018-10-30,2018-11-12,2018-11-08,2018-11-26
+Boeing Co,http://www.boeing.com,BA,1.71,2018-10-22,2018-11-09,2018-11-08,2018-12-07
+BOK Financial Corp,http://www.bokf.com,BOKF,0.5,2018-11-02,2018-11-12,2018-11-08,2018-11-26
+Brinks Co,http://www.brinks.com,BCO,0.15,2018-10-04,2018-11-09,2018-11-08,2018-12-03
+Brookline Bancorp Inc,http://www.brooklinebancorp.com,BRKL,0.105,2018-10-24,2018-11-09,2018-11-08,2018-11-23
+California Water Service Group,http://www.calwatergroup.com,CWT,0.1875,2018-10-31,2018-11-12,2018-11-08,2018-11-23
+Canadian Utilities Ltd,,CU:CA,0.3933,2018-10-11,2018-11-09,2018-11-08,2018-12-01
+Capital One Financial Corp,http://www.capitalone.com,COF,0.4,2018-11-01,2018-11-12,2018-11-08,2018-11-23
+Cedar Realty Trust Inc,http://www.cedarrealtytrust.com,CDR,0.05,2018-10-22,2018-11-09,2018-11-08,2018-11-20
+Charles Schwab Corp,http://www.aboutschwab.com,SCHW,0.13,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+Chemed Corp,http://www.chemed.com,CHE,0.3,2018-11-02,2018-11-12,2018-11-08,2018-12-03
+Cintas Corp,http://www.cintas.com,CTAS,2.05,2018-10-30,2018-11-09,2018-11-08,2018-12-07
+Coca-Cola European Partners PLC,http://www.ccep.com,CCE,0.32,2018-10-29,2018-11-09,2018-11-08,2018-11-20
+Columbus McKinnon Corp,http://www.cmworks.com,CMCO,0.05,2018-10-22,2018-11-09,2018-11-08,2018-11-19
+Comfort Systems USA Inc,http://www.comfortsystemsusa.com,FIX,0.09,2018-10-25,2018-11-09,2018-11-08,2018-11-20
+Consolidated-Tomoka Land Co,http://www.ctlc.com,CTO,0.08,2018-10-17,2018-11-09,2018-11-08,2018-11-30
+Costco Wholesale Corp,http://www.costco.com,COST,0.57,2018-10-24,2018-11-09,2018-11-08,2018-11-23
+Dana Inc,http://www.dana.com,DAN,0.1,2018-10-24,2018-11-09,2018-11-08,2018-11-30
+Dover Motorsports Inc,http://www.dovermotorsports.com,DVD,0.08,2018-10-24,2018-11-12,2018-11-08,2018-12-10
+Enterprise Bancorp Inc,http://www.enterprisebanking.com,EBTC,0.145,2018-10-16,2018-11-12,2018-11-08,2018-12-03
+First Bank,http://www.firstbanknj.com,FRBA,0.03,2018-10-22,2018-11-09,2018-11-08,2018-11-23
+First Defiance Financial Corp,http://www.fdef.com,FDEF,0.17,2018-10-15,2018-11-09,2018-11-08,2018-11-16
+First Interstate BancSystem Inc,http://www.fibk.com,FIBK,0.28,2018-10-24,2018-11-09,2018-11-08,2018-11-19
+GasLog Ltd,http://www.gaslogltd.com,GLOG,0.15,2018-11-01,2018-11-12,2018-11-08,2018-11-21
+Genworth MI Canada Inc,,MIC:CA,0.51,2018-10-30,2018-11-12,2018-11-08,2018-11-29
+German American Bancorp Inc,http://www.germanamerican.com,GABC,0.15,2018-10-30,2018-11-10,2018-11-08,2018-11-20
+Global Brass and Copper Holdings Inc,http://www.gbcholdings.com,BRSS,0.09,2018-11-01,2018-11-12,2018-11-08,2018-11-21
+Global Partners LP,http://www.globalp.com,GLP,0.475,2018-10-26,2018-11-09,2018-11-08,2018-11-14
+Gold Resource Corp,http://www.goldresourcecorp.com,GORO,0.0016667,2018-10-25,2018-11-12,2018-11-08,2018-11-23
+Great Western Bancorp Inc,http://www.greatwesternbank.com,GWB,0.25,2018-10-25,2018-11-09,2018-11-08,2018-11-21
+Heidrick & Struggles International Inc,http://www.heidrick.com,HSII,0.13,2018-10-29,2018-11-09,2018-11-08,2018-11-23
+Helmerich and Payne Inc,http://www.hpinc.com,HP,0.71,2018-09-06,2018-11-12,2018-11-08,2018-12-03
+Hercules Capital Inc,http://www.htgc.com,HTGC,0.31,2018-11-01,2018-11-12,2018-11-08,2018-11-19
+Hercules Capital Inc,http://www.htgc.com,HTGC,0.02,2018-11-01,2018-11-12,2018-11-08,2018-11-19
+Highwoods Properties Inc,http://www.highwoods.com,HIW,0.4625,2018-10-18,2018-11-12,2018-11-08,2018-12-04
+Hilton Worldwide Holdings Inc,http://www.hiltonworldwide.com,HLT,0.15,2018-10-24,2018-11-09,2018-11-08,2018-12-28
+Icahn Enterprises LP,http://www.ielp.com,IEP,1.75,2018-11-01,2018-11-12,2018-11-08,2018-12-18
+Interface Inc,http://www.interface.com,TILE,0.065,2018-10-24,2018-11-09,2018-11-08,2018-11-23
+International Business Machines Corp,http://www.ibm.com,IBM,1.57,2018-10-30,2018-11-09,2018-11-08,2018-12-10
+Investors Bancorp Inc,http://www.myinvestorsbank.com,ISBC,0.11,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+J B Hunt Transport Services Inc,http://www.jbhunt.com,JBHT,0.24,2018-10-18,2018-11-09,2018-11-08,2018-11-16
+Janus Henderson Group PLC,http://www.hendersongroupplc.com,JHG,0.36,2018-11-02,2018-11-12,2018-11-08,2018-11-30
+Lithia Motors Inc,http://www.lithia.com,LAD,0.29,2018-10-24,2018-11-09,2018-11-08,2018-11-23
+Macerich Co,http://www.macerich.com,MAC,0.75,2018-10-25,2018-11-09,2018-11-08,2018-12-03
+Macquarie Infrastructure Corp,http://www.macquarie.com,MIC,1,2018-10-31,2018-11-12,2018-11-08,2018-11-15
+Marine Products Corp,http://www.marineproductscorp.com,MPX,0.1,2018-10-24,2018-11-09,2018-11-08,2018-12-10
+Marine Products Corp,http://www.marineproductscorp.com,MPX,0.1,2018-10-24,2018-11-09,2018-11-08,2018-12-10
+Marlin Business Services Corp,http://www.marlinfinance.com,MRLN,0.14,2018-11-01,2018-11-12,2018-11-08,2018-11-23
+Mueller Water Products Inc,http://www.muellerwaterproducts.com,MWA,0.05,2018-10-29,2018-11-09,2018-11-08,2018-11-20
+Murphy Oil Corp,http://www.murphyoilcorp.com,MUR,0.25,2018-10-03,2018-11-12,2018-11-08,2018-12-03
+National Instruments Corp,http://www.ni.com,NATI,0.23,2018-10-25,2018-11-12,2018-11-08,2018-12-03
+New Media Investment Group Inc,http://www.newmediainv.com,NEWM,0.38,2018-10-31,2018-11-12,2018-11-08,2018-11-20
+Northeast Bancorp,,NBN,0.01,2018-10-29,2018-11-09,2018-11-08,2018-11-23
+Northstar Realty Europe Corp,http://www.nrecorp.com,NRE,0.15,2018-11-02,2018-11-12,2018-11-08,2018-11-16
+Nutrisystem Inc,http://www.nutrisystem.com,NTRI,0.25,2018-10-30,2018-11-09,2018-11-08,2018-11-19
+Oasis Midstream Partners LP,http://www.oasismidstream.com,OMP,0.43,2018-10-30,2018-11-09,2018-11-08,2018-11-27
+Olin Corp,http://www.olin.com,OLN,0.2,2018-10-25,2018-11-09,2018-11-08,2018-12-10
+Oppenheimer Holdings Inc,http://www.opco.com,OPY,0.11,2018-10-26,2018-11-09,2018-11-08,2018-11-23
+Oritani Financial Corp,http://www.oritani.com,ORIT,0.25,2018-10-29,2018-11-09,2018-11-08,2018-11-19
+Papa John's International Inc,http://www.papajohns.com,PZZA,0.225,2018-11-01,2018-11-12,2018-11-08,2018-11-23
+Parker-Hannifin Corp,http://www.parker.com,PH,0.76,2018-10-24,2018-11-09,2018-11-08,2018-12-07
+Penske Automotive Group Inc,http://www.penskeautomotive.com,PAG,0.37,2018-10-17,2018-11-12,2018-11-08,2018-12-04
+Pfizer Inc,http://www.pfizer.com,PFE,0.34,2018-09-27,2018-11-09,2018-11-08,2018-12-03
+Pivot Technology Solutions Inc,,PTG:CA,0.04,2018-10-31,2018-11-12,2018-11-08,2018-11-27
+PPG Industries Inc,http://www.ppg.com,PPG,0.48,2018-10-18,2018-11-12,2018-11-08,2018-12-12
+Rockwell Automation Inc,http://www.rockwellautomation.com,ROK,0.97,2018-11-01,2018-11-12,2018-11-08,2018-12-10
+Rollins Inc,http://www.rollins.com,ROL,0.14,2018-10-23,2018-11-09,2018-11-08,2018-12-10
+Rollins Inc,http://www.rollins.com,ROL,0.14,2018-10-23,2018-11-09,2018-11-08,2018-12-10
+RPC Inc,http://www.rpc.net,RES,0.1,2018-10-24,2018-11-09,2018-11-08,2018-12-10
+RPC Inc,http://www.rpc.net,RES,0.07,2018-10-24,2018-11-09,2018-11-08,2018-12-10
+SandRidge Mississippian Trust I,http://sdt.investorhq.businesswire.com,SDT,0.0442,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+Sandridge Mississippian Trust II,,SDR,0.049,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+SandRidge Permian Trust,http://investors.sandridgeenergy.com,PER,0.115,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+Santander Consumer USA Holdings Inc,http://www.santanderconsumerusa.com,SC,0.2,2018-10-31,2018-11-10,2018-11-08,2018-11-15
+SB Financial Group Inc,http://www.yoursbfinancial.com,SBFG,0.085,2018-10-22,2018-11-09,2018-11-08,2018-11-23
+SB One Bancorp,http://www.sbone.bank,SBBX,0.075,2018-10-29,2018-11-12,2018-11-08,2018-11-26
+Schnitzer Steel Industries Inc,http://www.schnitzersteel.com,SCHN,0.1875,2018-11-02,2018-11-12,2018-11-08,2018-11-26
+Seaboard Corp,http://www.seaboardcorp.com,SEB,1.5,2018-10-31,2018-11-12,2018-11-08,2018-11-23
+Shenandoah Telecommunications Co,http://www.shentel.com,SHEN,0.27,2018-10-31,2018-11-12,2018-11-08,2018-11-30
+Silicon Motion Technology Corp,http://www.siliconmotion.com,SIMO,0.3,2018-10-29,2018-11-09,2018-11-08,2018-11-23
+Sirius XM Holdings Inc,http://www.siriusxm.com,SIRI,0.0121,2018-10-09,2018-11-09,2018-11-08,2018-11-30
+Sonoco Products Co,http://www.sonoco.com,SON,0.41,2018-10-16,2018-11-09,2018-11-08,2018-12-10
+South State Corp,http://www.southstatebank.com,SSB,0.36,2018-10-22,2018-11-09,2018-11-08,2018-11-16
+Southern National Bancorp of Virginia Inc,http://www.sonabank.com,SONA,0.08,2018-10-25,2018-11-12,2018-11-08,2018-11-23
+Speedway Motorsports Inc,http://www.speedwaymotorsports.com,TRK,0.15,2018-10-23,2018-11-12,2018-11-08,2018-12-03
+Systemax Inc,http://www.systemax.com,SYX,0.11,2018-10-30,2018-11-12,2018-11-08,2018-11-19
+Terex Corp,http://www.terex.com,TEX,0.1,2018-10-12,2018-11-09,2018-11-08,2018-12-19
+U.S. Global Investors Inc,http://www.usfunds.com,GROW,0.0025,2018-10-03,2018-11-12,2018-11-08,2018-11-26
+U.S. Physical Therapy Inc,http://www.usph.com,USPH,0.23,2018-11-01,2018-11-09,2018-11-08,2018-12-07
+Union Bankshares Corp,http://investors.bankatunion.com,UBSH,0.23,2018-10-25,2018-11-09,2018-11-08,2018-11-23
+United States Steel Corp,http://www.ussteel.com,X,0.05,2018-11-01,2018-11-09,2018-11-08,2018-12-10
+Viper Energy Partners LP,http://www.viperenergy.com,VNOM,0.58,2018-10-30,2018-11-12,2018-11-08,2018-11-19
+W V S Financial Corp,http://www.wvsbank.com,WVFC,0.08,2018-10-30,2018-11-09,2018-11-08,2018-11-15
+W W Grainger Inc,http://www.grainger.com,GWW,1.36,2018-10-31,2018-11-12,2018-11-08,2018-12-01
+Walgreens Boots Alliance Inc,http://www.walgreensbootsalliance.com,WBA,0.44,2018-10-24,2018-11-12,2018-11-08,2018-12-12
+Washington Federal Inc,http://www.washingtonfederal.com,WAFD,0.18,2018-10-22,2018-11-09,2018-11-08,2018-11-23
+Weis Markets Inc,http://www.weismarkets.com,WMK,0.31,2018-10-30,2018-11-09,2018-11-08,2018-11-26
+Wells Fargo & Co,http://www.wellsfargo.com,WFC,0.43,2018-10-23,2018-11-09,2018-11-08,2018-12-01
+Welltower Inc,http://www.welltower.com,WELL,0.87,2018-10-30,2018-11-12,2018-11-08,2018-11-21
+Westlake Chemical Partners LP,http://www.wlkpartners.com,WLKP,0.4207,2018-10-31,2018-11-09,2018-11-08,2018-11-26
+WestRock Co,http://www.westrock.com,WRK,0.455,2018-10-26,2018-11-09,2018-11-08,2018-11-19
+Allergan plc,http://www.allergan.com,AGN,0.72,2018-10-26,2018-11-13,2018-11-09,2018-12-14
+ArcBest Corp,http://www.arcb.com,ARCB,0.08,2018-10-30,2018-11-13,2018-11-09,2018-11-27
+Astec Industries Inc,http://www.astecindustries.com,ASTE,0.11,2018-10-29,2018-11-13,2018-11-09,2018-11-28
+Buckeye Partners LP,http://www.buckeye.com,BPL,0.75,2018-11-02,2018-11-13,2018-11-09,2018-11-20
+Carlyle Group LP,http://www.carlyle.com,CG,0.42,2018-10-31,2018-11-13,2018-11-09,2018-11-20
+Carriage Services Inc,http://www.carriageservices.com,CSV,0.075,2018-10-24,2018-11-13,2018-11-09,2018-12-03
+CIT Group Inc,http://www.cit.com,CIT,0.25,2018-10-16,2018-11-13,2018-11-09,2018-11-27
+Exxon Mobil Corp,http://corporate.exxonmobil.com,XOM,0.82,2018-10-31,2018-11-13,2018-11-09,2018-12-10
+Federal Signal Corp,http://www.federalsignal.com,FSS,0.08,2018-10-30,2018-11-13,2018-11-09,2018-11-27
+First Choice Bancorp,http://www.firstchoicebankca.com,FCBP,0.2,2018-11-02,2018-11-13,2018-11-09,2018-11-26
+Global Net Lease Inc,http://www.globalnetlease.com,GNL,0.1775,2018-10-01,2018-11-13,2018-11-09,2018-11-15
+HanesBrands Inc,http://www.hanes.com,HBI,0.15,2018-10-23,2018-11-13,2018-11-09,2018-12-04
+Invesco Ltd,http://www.invesco.com,IVZ,0.3,2018-10-18,2018-11-13,2018-11-09,2018-12-03
+JBG SMITH Properties,http://www.jbgsmith.com,JBGS,0.225,2018-11-02,2018-11-13,2018-11-09,2018-11-26
+Landstar System Inc,http://www.landstar.com,LSTR,0.165,2018-10-25,2018-11-13,2018-11-09,2018-12-07
+Macatawa Bank Corp,http://www.macatawabank.com,MCBC,0.07,2018-10-29,2018-11-13,2018-11-09,2018-11-28
+Marlin Business Services Corp,http://www.marlinfinance.com,MRLN,0.14,2018-11-01,2018-11-12,2018-11-09,2018-11-23
+MSC Industrial Direct Co Inc,http://www.mscdirect.com,MSM,0.63,2018-10-18,2018-11-13,2018-11-09,2018-11-27
+Natural Health Trends Corp,http://www.naturalhealthtrendscorp.com,NHTC,0.16,2018-10-30,2018-11-13,2018-11-09,2018-11-23
+Natural Health Trends Corp,http://www.naturalhealthtrendscorp.com,NHTC,0.18,2018-10-30,2018-11-13,2018-11-09,2018-11-23
+OFS Credit Company Inc,,OCCI,0.167,2018-10-16,2018-11-12,2018-11-09,2018-11-30
+ONE Gas Inc,http://www.onegas.com,OGS,0.46,2018-10-29,2018-11-13,2018-11-09,2018-12-03
+Paccar Inc,http://www.paccar.com,PCAR,0.28,2018-09-11,2018-11-13,2018-11-09,2018-12-04
+Versum Materials Inc,http://www.versummaterials.com,VSM,0.08,2018-10-31,2018-11-13,2018-11-09,2018-11-27
+Waste Connections Inc,,WCN:CA,0.16,2018-10-29,2018-11-13,2018-11-09,2018-11-27
+Woodward Inc,http://www.woodward.com,WWD,0.1425,2018-09-19,2018-11-13,2018-11-09,2018-11-27
+Xilinx Inc,http://www.xilinx.com,XLNX,0.36,2018-10-25,2018-11-13,2018-11-09,2018-12-04
+Alliance Data Systems Corp,http://www.alliancedata.com,ADS,0.57,2018-10-18,2018-11-14,2018-11-13,2018-12-19
+Artesian Resources Corp,http://www.artesianresources.com,ARTNA,0.2423,2018-09-26,2018-11-14,2018-11-13,2018-11-21
+Bar Harbor Bankshares,http://www.bhbt.com,BHB,0.2,2018-10-16,2018-11-14,2018-11-13,2018-12-14
+Black Stone Minerals LP,http://www.blackstoneminerals.com,BSM,0.37,2018-10-29,2018-11-14,2018-11-13,2018-11-21
+Bloomin' Brands Inc,http://www.bloominbrands.com,BLMN,0.09,2018-10-29,2018-11-14,2018-11-13,2018-11-21
+Booz Allen Hamilton Holding Corp,http://www.boozallen.com,BAH,0.19,2018-10-29,2018-11-14,2018-11-13,2018-11-30
+Cheesecake Factory Inc,http://www.thecheesecakefactory.com,CAKE,0.33,2018-10-30,2018-11-14,2018-11-13,2018-11-27
+Cogeco Communications Inc,,CCA:CA,0.525,2018-11-01,2018-11-14,2018-11-13,2018-11-28
+Cogeco Inc,,CGO:CA,0.43,2018-11-01,2018-11-14,2018-11-13,2018-11-28
+Consolidated Edison Inc,http://https://www.conedison.com,ED,0.715,2018-10-18,2018-11-14,2018-11-13,2018-12-17
+Eastern Co,http://www.easterncompany.com,EML,0.11,2018-11-01,2018-11-14,2018-11-13,2018-12-14
+Emerald Expositions Events Inc,http://www.emeraldexpositions.com,EEX,0.0725,2018-11-01,2018-11-14,2018-11-13,2018-11-28
+Equinix Inc,http://www.equinix.com,EQIX,2.28,2018-11-01,2018-11-14,2018-11-13,2018-12-12
+Fresh Del Monte Produce Inc,http://www.freshdelmonte.com,FDP,0.15,2018-10-31,2018-11-14,2018-11-13,2018-12-07
+Global Water Resources Inc,http://www.gwresources.com,GWRS,0.023625,2018-10-30,2018-11-14,2018-11-13,2018-11-30
+Greenbrier Companies Inc,http://www.gbrx.com,GBX,0.25,2018-10-26,2018-11-14,2018-11-13,2018-12-05
+Home BancShares Inc,http://www.homebancshares.com,HOMB,0.12,2018-10-24,2018-11-14,2018-11-13,2018-12-05
+International Game Technology PLC,http://www.igt.com,IGT,0.2,2018-10-31,2018-11-14,2018-11-13,2018-11-28
+Invitation Homes Inc,http://www.InvitationHomes.com,INVH,0.11,2018-11-02,2018-11-14,2018-11-13,2018-11-30
+Landmark Bancorp Inc,http://www.banklandmark.com,LARK,0.2,2018-10-31,2018-11-14,2018-11-13,2018-11-28
+LogMeIn Inc,http://www.LogMeInInc.com,LOGM,0.3,2018-10-25,2018-11-14,2018-11-13,2018-11-30
+Mobile Mini Inc,http://www.mobilemini.com,MINI,0.25,2018-10-19,2018-11-14,2018-11-13,2018-11-28
+MSA Safety Inc,http://www.msasafety.com,MSA,0.38,2018-11-01,2018-11-14,2018-11-13,2018-12-10
+Park Ohio Holdings Corp,http://www.pkoh.com,PKOH,0.125,2018-10-31,2018-11-14,2018-11-13,2018-11-28
+Partners Real Estate Investment Trust,,PAR_UN:CA,0.87,2018-10-25,2018-11-02,2018-11-13,2018-11-09
+Pinnacle Renewable Holdings Inc,,PL:CA,0.15,2018-11-05,2018-11-14,2018-11-13,2018-11-23
+Re/Max Holdings Inc,http://www.remax.com,RMAX,0.2,2018-10-31,2018-11-14,2018-11-13,2018-11-28
+Regency Centers Corp,http://www.regencycenters.com,REG,0.555,2018-10-25,2018-11-14,2018-11-13,2018-11-28
+Sandy Spring Bancorp Inc,http://www.sandyspringbank.com,SASR,0.28,2018-11-01,2018-11-14,2018-11-13,2018-11-21
+Scorpio Bulkers Inc,http://www.scorpiobulkers.com,SALT,0.02,2018-10-22,2018-11-14,2018-11-13,2018-12-14
+Spartan Motors Inc,http://www.spartanmotors.com,SPAR,0.05,2018-11-01,2018-11-14,2018-11-13,2018-12-14
+Superior Group of Companies Inc,http://superiorgroupofcompanies.com,SGC,0.1,2018-11-05,2018-11-14,2018-11-13,2018-11-28
+TESSCO Technologies Inc,http://www.tessco.com,TESS,0.2,2018-10-25,2018-11-14,2018-11-13,2018-11-28
+W. R. Grace & Co,http://www.grace.com,GRA,0.24,2018-10-24,2018-11-14,2018-11-13,2018-12-05
+WEC Energy Group Inc,http://www.wecenergygroup.com,WEC,0.5525,2018-10-18,2018-11-14,2018-11-13,2018-12-01
+Zions Bancorp,http://www.zionsbancorporation.com,ZION,0.3,2018-10-26,2018-11-14,2018-11-13,2018-11-21
+Hennessy Advisors Inc,http://www.hennessyadvisors.com,HNNA,0.11,2018-10-30,2018-11-13,2018-11-12,2018-12-05
+Alliance Resource Partners LP,http://www.arlp.com,ARLP,0.525,2018-10-26,2018-11-07,2018-11-06,2018-11-14
+AMCON Distributing Co,http://www.amcon.com,DIT,0.18,2018-10-23,2018-11-07,2018-11-06,2018-11-27
+Aptiv PLC,http://www.aptiv.com,APTV,0.22,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Archrock Inc,http://www.archrock.com,AROC,0.132,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+BankFinancial Corp,http://bankfinancial.com,BFIN,0.1,2018-10-26,2018-11-07,2018-11-06,2018-11-23
+BGC Partners Inc,http://www.bgcpartners.com,BGCP,0.18,2018-10-30,2018-11-07,2018-11-06,2018-11-28
+Cabot Oil & Gas Corp,http://www.cabotog.com,COG,0.07,2018-10-26,2018-11-07,2018-11-06,2018-11-16
+Columbia Banking System Inc,http://www.columbiabank.com,COLB,0.26,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Columbia Banking System Inc,http://www.columbiabank.com,COLB,0.14,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Commercial Metals Co,http://www.cmc.com,CMC,0.12,2018-10-23,2018-11-07,2018-11-06,2018-11-21
+Crestwood Equity Partners LP,http://www.crestwoodlp.com,CEQP,0.6,2018-10-18,2018-11-07,2018-11-06,2018-11-14
+Cypress Energy Partners LP,http://www.cypressenergy.com,CELP,0.21,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Delta Air Lines Inc,http://www.delta.com,DAL,0.35,2018-10-24,2018-11-07,2018-11-06,2018-11-28
+Employers Holdings Inc,http://www.employers.com,EIG,0.2,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Enbridge Energy Partners LP,http://www.enbridgepartners.com,EEP,0.35,2018-10-24,2018-11-07,2018-11-06,2018-11-14
+First Bancshares Inc,http://www.thefirstbank.com,FBMS,0.05,2018-10-24,2018-11-07,2018-11-06,2018-11-23
+First Mid-Illinois Bancshares Inc,http://www.firstmid.com,FMBH,0.36,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+FirstEnergy Corp,http://www.firstenergycorp.com,FE,0.36,2018-09-18,2018-11-07,2018-11-06,2018-12-01
+Golar LNG Partners LP,http://www.golarlngpartners.com,GMLP,0.4042,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Green Bancorp Inc,http://www.greenbank.com,GNBC,0.1,2018-10-22,2018-11-07,2018-11-06,2018-11-21
+Heritage Financial Corp,http://www.HF-WA.com,HFWA,0.17,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Heritage Financial Corp,http://www.HF-WA.com,HFWA,0.1,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Intel Corp,http://www.intel.com,INTC,0.3,2018-09-14,2018-11-07,2018-11-06,2018-12-01
+Magellan Midstream Partners LP,http://www.magellanlp.com,MMP,0.9775,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Marketaxess Holdings Inc,http://www.marketaxess.com,MKTX,0.42,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Martin Midstream Partners LP,http://www.martinmidstream.com,MMLP,0.5,2018-10-18,2018-11-07,2018-11-06,2018-11-14
+MDC Holdings Inc,http://ir.richmondamerican.com,MDC,0.3,2018-10-22,2018-11-07,2018-11-06,2018-11-21
+Mid Penn Bancorp Inc,http://www.midpennbank.com,MPB,0.15,2018-10-25,2018-11-07,2018-11-06,2018-11-26
+National Western Life Group Inc,http://www.nationalwesternlife.com,NWLI,0.36,2018-10-23,2018-11-07,2018-11-06,2018-12-03
+Natural Resource Partners LP,http://www.nrplp.com,NRP,0.45,2018-10-24,2018-11-07,2018-11-06,2018-11-14
+Navios Maritime Partners LP,http://www.navios-mlp.com,NMM,0.02,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Newmark Group Inc,http://www.ngkf.com,NMRK,0.09,2018-10-30,2018-11-07,2018-11-06,2018-11-28
+Northern Technologies International Corp,http://www.ntic.com,NTIC,0.12,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Northfield Bancorp Inc,http://www.enorthfield.com,NFBK,0.1,2018-10-24,2018-11-07,2018-11-06,2018-11-21
+Richardson Electronics Ltd,http://www.rell.com,RELL,0.06,2018-10-10,2018-11-07,2018-11-06,2018-11-21
+Rush Enterprises Inc,http://www.rushenterprises.com,RUSHA,0.12,2018-10-23,2018-11-07,2018-11-06,2018-12-10
+Seadrill Partners LLC,http://www.seadrillpartners.com,SDLP,0.1,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Sound Financial Bancorp Inc,http://www.soundcb.com,SFBC,0.14,2018-10-26,2018-11-07,2018-11-06,2018-11-21
+Southern Copper Corp,http://www.southerncoppercorp.com,SCCO,0.4,2018-10-19,2018-11-07,2018-11-06,2018-11-21
+Summit Midstream Partners LP,http://www.summitmidstream.com,SMLP,0.575,2018-10-25,2018-11-07,2018-11-06,2018-11-14
+Two River Bancorp,http://www.tworiverbank.com,TRCB,0.055,2018-10-23,2018-11-07,2018-11-06,2018-11-28
+VSE Corp,http://www.vsecorp.com,VSEC,0.08,2018-07-30,2018-11-07,2018-11-06,2018-11-21
+West Bancorporation Inc,http://www.westbankstrong.com,WTBA,0.2,2018-10-25,2018-11-07,2018-11-06,2018-11-21
+Western New England Bancorp Inc,http://www.westfieldbank.com,WNEB,0.04,2018-10-23,2018-11-07,2018-11-06,2018-11-21
+Winmark Corp,http://www.winmarkcorporation.com,WINA,0.15,2018-10-24,2018-11-07,2018-11-06,2018-12-03
+Wisdom Tree Investments Inc,http://www.wisdomtree.com,WETF,0.03,2018-10-26,2018-11-07,2018-11-06,2018-11-21
+A and W Revenue Royalties Income Fund,,AW_UN:CA,0.143,2018-10-17,2018-11-15,2018-11-14,2018-11-30
+Accord Financial Corp,,ACD:CA,0.09,2018-10-29,2018-11-15,2018-11-14,2018-12-03
+AGCO Corp,http://www.agcocorp.com,AGCO,0.15,2018-10-25,2018-11-15,2018-11-14,2018-12-14
+Allbanc Split Corp II,,ALB:CA,0.155,2018-10-04,2018-11-15,2018-11-14,2018-11-30
+ALLETE Inc,http://www.allete.com,ALE,0.56,2018-10-25,2018-11-15,2018-11-14,2018-12-01
+Allied Motion Technologies Inc,http://www.alliedmotion.com,AMOT,0.03,2018-10-31,2018-11-15,2018-11-14,2018-11-28
+American States Water Co,http://www.aswater.com,AWR,0.275,2018-10-31,2018-11-15,2018-11-14,2018-12-03
+Applied Industrial Technologies Inc,http://www.applied.com,AIT,0.3,2018-10-31,2018-11-15,2018-11-14,2018-11-30
+Arbor Realty Trust Inc,http://www.arbor.com,ABR,0.27,2018-11-02,2018-11-15,2018-11-14,2018-11-30
+ARMOUR Residential REIT Inc,http://www.armourreit.com,ARR,0.19,2018-10-24,2018-11-15,2018-11-14,2018-11-27
+Bemis Company Inc,http://www.bemis.com,BMS,0.31,2018-11-01,2018-11-15,2018-11-14,2018-12-03
+Bonterra Energy Corp,,BNE:CA,0.1,2018-11-01,2018-11-15,2018-11-14,2018-11-30
+Business First Bancshares Inc,http://www.b1bank.com,BFST,0.08,2018-10-22,2018-11-15,2018-11-14,2018-11-30
+Canadian Utilities & Telecom Income Fund,,UTE_UN:CA,0.05233,2018-11-05,2018-11-15,2018-11-14,2018-11-30
+CenterPoint Energy Inc,http://www.centerpointenergy.com,CNP,0.2775,2018-10-23,2018-11-15,2018-11-14,2018-12-13
+CF Industries Holdings Inc,http://www.cfindustries.com,CF,0.3,2018-10-11,2018-11-15,2018-11-14,2018-11-30
+Church & Dwight Co Inc,http://www.churchdwight.com,CHD,0.2175,2018-10-31,2018-11-15,2018-11-14,2018-12-03
+Cimarex Energy Co,http://www.cimarex.com,XEC,0.18,2018-08-31,2018-11-15,2018-11-14,2018-11-30
+Columbia Sportswear Co,http://www.columbia.com,COLM,0.24,2018-10-25,2018-11-15,2018-11-14,2018-11-29
+Community West Bancshares,http://www.communitywest.com,CWBC,0.05,2018-10-26,2018-11-15,2018-11-14,2018-11-30
+Computer Programs and Systems Inc,http://www.cpsi.com,CPSI,0.1,2018-11-01,2018-11-15,2018-11-14,2018-11-30
+CorEnergy Infrastructure Trust Inc,http://corenergy.reit,CORR,0.75,2018-10-24,2018-11-15,2018-11-14,2018-11-30
+Cummins Inc,http://www.cummins.com,CMI,1.14,2018-10-09,2018-11-15,2018-11-14,2018-12-03
+Duke Realty Corp,http://www.dukerealty.com,DRE,0.215,2018-10-24,2018-11-15,2018-11-14,2018-11-30
+Eli Lilly and Co,http://www.lilly.com,LLY,0.5625,2018-10-15,2018-11-15,2018-11-14,2018-12-10
+EMC Insurance Group Inc,http://www.emcins.com,EMCI,0.23,2018-11-05,2018-11-15,2018-11-14,2018-11-22
+Enbridge Inc,,ENB:CA,0.671,2018-11-02,2018-11-15,2018-11-14,2018-12-01
+Enviva Partners LP,http://www.envivabiomass.com,EVA,0.635,2018-10-31,2018-11-15,2018-11-14,2018-11-29
+Exelon Corp,http://www.exeloncorp.com,EXC,0.345,2018-09-24,2018-11-15,2018-11-14,2018-12-10
+Expedia Group Inc,http://www.expediainc.com,EXPE,0.32,2018-10-29,2018-11-15,2018-11-14,2018-12-06
+FirstCash Inc,http://ir.firstcash.com,FCFS,0.25,2018-10-25,2018-11-15,2018-11-14,2018-11-30
+Fronsac REIT,,FRO_UN:CA,0.00168,2018-08-24,2018-11-15,2018-11-14,2018-11-30
+Gildan Activewear Inc,,GIL:CA,0.112,2018-11-01,2018-11-15,2018-11-14,2018-12-10
+Gorman-Rupp Co,http://www.gormanrupp.com,GRC,2,2018-10-26,2018-11-15,2018-11-14,2018-12-10
+Gorman-Rupp Co,http://www.gormanrupp.com,GRC,0.135,2018-10-26,2018-11-15,2018-11-14,2018-12-10
+Greene County Bancorp Inc,http://www.thebankofgreenecounty.com,GCBC,0.1,2018-10-17,2018-11-15,2018-11-14,2018-11-30
+Healthcare Realty Trust Inc,http://www.healthcarerealty.com,HR,0.3,2018-10-30,2018-11-15,2018-11-14,2018-11-30
+Hilltop Holdings Inc,http://www.hilltop-holdings.com,HTH,0.07,2018-10-25,2018-11-15,2018-11-14,2018-11-30
+HomeTown Bankshares Corp,http://www.hometownbankva.com,HMTA,0.04,2018-11-05,2018-11-15,2018-11-14,2018-11-30
+International Paper Co,http://www.internationalpaper.com,IP,0.5,2018-10-09,2018-11-15,2018-11-14,2018-12-14
+iStar Inc,http://www.istar.com,STAR,0.09,2018-10-31,2018-11-15,2018-11-14,2018-11-30
+Jabil Inc,http://www.jabil.com,JBL,0.08,2018-10-18,2018-11-15,2018-11-14,2018-12-03
+KB Home,http://www.kbhome.com,KBH,0.025,2018-10-04,2018-11-15,2018-11-14,2018-11-29
+Kroger Co,http://www.thekrogerco.com,KR,0.14,2018-09-20,2018-11-15,2018-11-14,2018-12-01
+LSC Communications Inc,http://www.lsccom.com,LKSD,0.26,2018-10-25,2018-11-15,2018-11-14,2018-12-04
+Maximus Inc,http://www.maximus.com,MMS,0.25,2018-10-16,2018-11-15,2018-11-14,2018-11-30
+MGP Ingredients Inc,http://www.mgpingredients.com,MGPI,0.08,2018-11-01,2018-11-15,2018-11-14,2018-11-30
+Microsoft Corp,http://www.microsoft.com,MSFT,0.46,2018-09-19,2018-11-15,2018-11-14,2018-12-13
+Middlesex Water Co,http://www.middlesexwater.com,MSEX,0.24,2018-10-24,2018-11-15,2018-11-14,2018-12-03
+Monmouth Real Estate Investment Corp,http://www.mreic.reit,MNR,0.17,2018-10-01,2018-11-15,2018-11-14,2018-12-17
+Moog Inc,http://www.moog.com,MOG/A,0.25,2018-11-02,2018-11-15,2018-11-14,2018-12-03
+National CineMedia Inc,http://www.ncm.com,NCMI,0.17,2018-11-05,2018-11-15,2018-11-14,2018-11-30
+Naylor Pipe Co,,NAYP,2,2018-11-01,2018-11-15,2018-11-14,2018-12-03
+PBF Energy Inc,http://www.pbfenergy.com,PBF,0.3,2018-10-31,2018-11-15,2018-11-14,2018-11-30
+PBF Logistics LP,http://www.pbflogistics.com,PBFX,0.5,2018-10-31,2018-11-15,2018-11-14,2018-11-30
+Peak Resorts Inc,http://www.peakresorts.com,SKIS,0.07,2018-10-09,2018-11-15,2018-11-14,2018-11-27
+Pool Corp,http://www.poolcorp.com,POOL,0.45,2018-11-02,2018-11-15,2018-11-14,2018-11-29
+Provident Financial Holdings Inc,http://www.myprovident.com,PROV,0.14,2018-10-25,2018-11-15,2018-11-14,2018-12-06
+Provident Financial Services Inc,http://www.provident.bank,PFS,0.21,2018-10-26,2018-11-15,2018-11-14,2018-11-30
+Razor Energy Corp,,RZE:CA,0.0125,2018-11-01,2018-11-15,2018-11-14,2018-11-30
+Realogy Holdings Corp,http://www.realogy.com,RLGY,0.09,2018-11-02,2018-11-15,2018-11-14,2018-11-29
+RR Donnelley & Sons Co,http://www.rrdonnelley.com,RRD,0.03,2018-10-23,2018-11-15,2018-11-14,2018-12-03
+Ruth's Hospitality Group Inc,http://www.rhgi.com,RUTH,0.11,2018-11-02,2018-11-15,2018-11-14,2018-11-29
+Sabine Royalty Trust,http://www.sbr-sabine.com,SBR,0.40392,2018-11-05,2018-11-15,2018-11-14,2018-11-29
+Selective Insurance Group Inc,http://www.Selective.com,SIGI,0.2,2018-10-25,2018-11-15,2018-11-14,2018-12-03
+Shaw Communications Inc,,SJR_B:CA,0.09875,2018-06-28,2018-11-15,2018-11-14,2018-11-29
+SNC-Lavalin Group Inc,,SNC:CA,0.287,2018-11-01,2018-11-15,2018-11-14,2018-11-29
+Southern Missouri Bancorp Inc,http://www.bankwithsouthern.com,SMBC,0.13,2018-10-22,2018-11-15,2018-11-14,2018-11-30
+Southwest Gas Holdings Inc,http://www.swgasholdings.com,SWX,0.52,2018-09-26,2018-11-15,2018-11-14,2018-12-03
+Standard Motor Products Inc,http://www.smpcorp.com,SMP,0.21,2018-10-26,2018-11-15,2018-11-14,2018-12-03
+Starbucks Corp,http://www.starbucks.com,SBUX,0.36,2018-11-01,2018-11-15,2018-11-14,2018-11-30
+SunCoke Energy Partners LP,http://www.suncoke.com,SXCP,0.4,2018-10-16,2018-11-15,2018-11-14,2018-12-03
+Taitron Components Inc,http://www.taitroncomponents.com,TAIT,0.03,2018-11-02,2018-11-15,2018-11-14,2018-11-30
+TCF Financial Corp,http://www.tcfbank.com,TCF,0.15,2018-10-24,2018-11-15,2018-11-14,2018-12-03
+Teleflex Inc,http://www.teleflex.com,TFX,0.34,2018-11-01,2018-11-15,2018-11-14,2018-12-14
+Thomson Reuters Corp,,TRI:CA,0.35,2018-10-06,2018-11-15,2018-11-14,2018-12-17
+TJX Companies Inc,http://www.tjx.com,TJX,0.39,2018-09-18,2018-11-15,2018-11-14,2018-12-06
+TransAlta Renewables Inc,,RNW:CA,0.07833,2018-08-02,2018-11-15,2018-11-14,2018-11-30
+UMH Properties Inc,http://www.umh.reit,UMH,0.18,2018-10-01,2018-11-15,2018-11-14,2018-12-17
+Unitil Corp,http://www.unitil.com,UTL,0.365,2018-10-24,2018-11-15,2018-11-14,2018-11-29
+Vectren Corp,http://www.vectren.com,VVC,0.48,2018-11-01,2018-11-15,2018-11-14,2018-12-03
+Amgen Inc,http://www.amgen.com,AMGN,1.32,2018-10-23,2018-11-16,2018-11-15,2018-12-07
+Apartment Investment and Management Co,http://www.aimco.com,AIV,0.38,2018-10-31,2018-11-16,2018-11-15,2018-11-30
+Aqua America Inc,http://www.aquaamerica.com,WTR,0.219,2018-11-02,2018-11-16,2018-11-15,2018-12-01
+Ardagh Group SA,http://www.ardaghgroup.com,ARD,0.14,2018-10-25,2018-11-16,2018-11-15,2018-11-30
+Artisan Partners Asset Management Inc,http://www.artisanpartners.com,APAM,0.6,2018-10-25,2018-11-16,2018-11-15,2018-11-30
+Baker Hughes A GE Co,http://www.bhge.com,BHGE,0.18,2018-11-05,2018-11-16,2018-11-15,2018-11-30
+Bankwell Financial Group Inc,http://www.mybankwell.com,BWFG,0.12,2018-10-30,2018-11-16,2018-11-15,2018-11-26
+Calavo Growers Inc,http://www.calavo.com,CVGW,1,2018-10-02,2018-11-16,2018-11-15,2018-12-07
+Capitol Federal Financial Inc,http://www.capfed.com,CFFN,0.39,2018-10-26,2018-11-16,2018-11-15,2018-11-30
+Chemours Co,http://www.chemours.com,CC,0.25,2018-10-30,2018-11-16,2018-11-15,2018-12-14
+Chevron Corp,http://www.chevron.com,CVX,1.12,2018-10-31,2018-11-16,2018-11-15,2018-12-10
+Cogent Communications Holdings Inc,http://www.cogentco.com,CCOI,0.56,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+Cognex Corp,http://www.cognex.com,CGNX,0.05,2018-10-29,2018-11-16,2018-11-15,2018-11-30
+Cohen & Company Inc,http://www.ifmi.com,COHN,0.2,2018-10-31,2018-11-16,2018-11-15,2018-11-30
+Collectors Universe Inc,http://www.collectorsuniverse.com,CLCT,0.175,2018-10-23,2018-11-16,2018-11-15,2018-11-30
+Community Healthcare Trust Inc,http://www.chct.reit,CHCT,0.405,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+Corning Inc,http://www.corning.com,GLW,0.18,2018-10-03,2018-11-16,2018-11-15,2018-12-14
+DHT Holdings Inc,http://www.dhtankers.com,DHT,0.02,2018-11-01,2018-11-16,2018-11-15,2018-11-23
+Dorel Industries Inc,,DII_B:CA,0.3,2018-11-02,2018-11-16,2018-11-15,2018-11-30
+Duke Energy Corp,http://www.duke-energy.com,DUK,0.9275,2018-10-26,2018-11-16,2018-11-15,2018-12-17
+Eagle Bancorp Montana Inc,http://www.opportunitybank.com,EBMT,0.0925,2018-10-25,2018-11-16,2018-11-15,2018-12-07
+Enghouse Systems Ltd,,ENGH:CA,0.18,2018-09-06,2018-11-16,2018-11-15,2018-11-30
+Fortress Transportation and Infrastructure Investors LLC,http://www.ftandi.com,FTAI,0.33,2018-11-01,2018-11-16,2018-11-15,2018-11-27
+H&R Real Estate Investment Trust,,HR_UN:CA,0.115,2018-10-10,2018-11-16,2018-11-15,2018-11-30
+Hawaiian Holdings Inc,http://www.hawaiianairlines.com,HA,0.12,2018-10-23,2018-11-16,2018-11-15,2018-11-30
+Hawkins Inc,http://www.hawkinsinc.com,HWKN,0.225,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+Hci Group Inc,http://www.hcigroup.com,HCI,0.375,2018-10-23,2018-11-16,2018-11-15,2018-12-21
+Heartland Financial USA Inc,http://www.htlf.com,HTLF,0.14,2018-10-17,2018-11-16,2018-11-15,2018-11-30
+Honeywell International Inc,http://www.honeywell.com,HON,0.82,2018-09-28,2018-11-16,2018-11-15,2018-12-07
+Innophos Holdings Inc,http://www.innophos.com,IPHS,0.48,2018-11-01,2018-11-16,2018-11-15,2018-12-07
+J M Smucker Co,http://www.jmsmucker.com,SJM,0.85,2018-10-26,2018-11-16,2018-11-15,2018-12-03
+KEMET Corp,http://www.kemet.com,KEM,0.05,2018-10-30,2018-11-16,2018-11-15,2018-11-26
+Kraft Heinz Co,http://www.kraftheinzcompany.com,KHC,0.625,2018-11-01,2018-11-16,2018-11-15,2018-12-14
+L3 Technologies Inc,http://www.L3T.com,LLL,0.8,2018-10-22,2018-11-16,2018-11-15,2018-12-17
+Lindsay Corp,http://www.lindsay.com,LNN,0.31,2018-10-19,2018-11-16,2018-11-15,2018-11-30
+Louisiana-Pacific Corp,http://www.lpcorp.com,LPX,0.13,2018-11-02,2018-11-16,2018-11-15,2018-11-30
+MSCI Inc,http://www.msci.com,MSCI,0.58,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+Neenah Inc,http://www.neenah.com,NP,0.41,2018-11-01,2018-11-16,2018-11-15,2018-12-03
+Nexstar Media Group Inc,http://www.nexstar.tv,NXST,0.375,2018-10-26,2018-11-16,2018-11-15,2018-11-30
+North European Oil Royalty Trust,http://www.neort.com,NRT,0.15,2018-11-02,2018-11-16,2018-11-15,2018-11-28
+Oil-Dri Corporation of America,http://www.oildri.com,ODC,0.24,2018-10-17,2018-11-16,2018-11-15,2018-11-30
+Park National Corp,http://www.parknationalcorp.com,PRK,0.96,2018-10-22,2018-11-16,2018-11-15,2018-12-10
+PCSB Financial Corp,http://www.pcsbbank.com,PCSB,0.03,2018-10-25,2018-11-16,2018-11-15,2018-11-30
+PFB Corporation,,PFB:CA,0.08,2018-10-25,2018-11-16,2018-11-15,2018-11-30
+Reliance Steel & Aluminum Co,http://www.rsac.com,RS,0.5,2018-10-25,2018-11-16,2018-11-15,2018-12-07
+Rockwell Collins Inc,http://www.rockwellcollins.com,COL,0.33,2018-11-01,2018-11-16,2018-11-15,2018-12-10
+Salisbury Bancorp Inc,http://www.salisburybank.com,SAL,0.28,2018-10-26,2018-11-16,2018-11-15,2018-11-30
+SemGroup Corp,http://www.semgroupcorp.com,SEMG,0.4725,2018-10-31,2018-11-16,2018-11-15,2018-11-26
+Sherwin-Williams Co,http://www.sherwin-williams.com,SHW,0.86,2018-10-17,2018-11-16,2018-11-15,2018-12-07
+Simon Property Group Inc,http://www.simon.com,SPG,2,2018-10-25,2018-11-16,2018-11-15,2018-11-30
+Spok Holdings Inc,http://www.spok.com,SPOK,0.125,2018-10-24,2018-11-16,2018-11-15,2018-12-10
+Sturm Ruger & Company Inc,http://www.ruger.com,RGR,0.21,2018-10-31,2018-11-16,2018-11-15,2018-11-30
+Summit Hotel Properties Inc,http://www.shpreit.com,INN,0.18,2018-10-26,2018-11-16,2018-11-15,2018-11-30
+Timberland Bancorp Inc,http://www.timberlandbank.com,TSBK,0.1,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+Timberland Bancorp Inc,http://www.timberlandbank.com,TSBK,0.13,2018-11-01,2018-11-16,2018-11-15,2018-11-30
+United Technologies Corp,http://www.utc.com,UTX,0.735,2018-10-10,2018-11-16,2018-11-15,2018-12-10
+Visa Inc,http://usa.visa.com,V,0.25,2018-10-17,2018-11-16,2018-11-15,2018-12-04
+Walker & Dunlop Inc,http://www.walkerdunlop.com,WD,0.25,2018-10-31,2018-11-16,2018-11-15,2018-12-04
+WCF Bancorp Inc,http://www.wcfbank.com,WCFB,0.05,2018-11-05,2018-11-16,2018-11-15,2018-12-05
+Westinghouse Air Brake Technologies Corp,http://www.wabtec.com,WAB,0.12,2018-10-16,2018-11-16,2018-11-15,2018-11-30
+Whirlpool Corp,http://www.whirlpoolcorp.com,WHR,1.15,2018-10-15,2018-11-16,2018-11-15,2018-12-15
+Allison Transmission Holdings Inc,http://www.allisontransmission.com,ALSN,0.15,2018-10-25,2018-11-19,2018-11-16,2018-11-30
+American Software Inc,http://www.amsoftware.com,AMSWA,0.11,2018-08-23,2018-11-19,2018-11-16,2018-12-05
+AmerisourceBergen Corp,http://www.amerisourcebergen.com,ABC,0.4,2018-11-06,2018-11-19,2018-11-16,2018-12-03
+Black Hills Corp,http://www.blackhillscorp.com,BKH,0.505,2018-10-30,2018-11-19,2018-11-16,2018-12-01
+Bunge Ltd,http://www.bunge.com,BG,0.5,2018-08-03,2018-11-19,2018-11-16,2018-12-03
+Carlisle Companies Inc,http://www.carlisle.com,CSL,0.4,2018-11-05,2018-11-19,2018-11-16,2018-12-03
+Chesapeake Granite Wash Trust,http://www.chkgranitewashtrust.com,CHKR,0.0534,2018-11-02,2018-11-19,2018-11-16,2018-11-29
+CNA Financial Corp,http://www.cna.com,CNA,0.35,2018-11-05,2018-11-19,2018-11-16,2018-12-05
+Deluxe Corp,http://www.deluxe.com,DLX,0.3,2018-10-25,2018-11-19,2018-11-16,2018-12-03
+Emerald Plantation Holdings Ltd,,EMEXF,0.025,2018-10-12,2018-11-02,2018-11-16,2018-11-15
+Genie Energy Ltd,http://www.genie.com,GNE,0.075,2018-11-05,2018-11-19,2018-11-16,2018-11-30
+Horizon Technology Finance Corp,http://www.horizontechnologyfinancecorp.com,HRZN,0.1,2018-07-31,2018-11-19,2018-11-16,2018-12-14
+j2 Global Inc,http://www.j2global.com,JCOM,0.435,2018-11-06,2018-11-19,2018-11-16,2018-12-05
+Jefferies Financial Group Inc,http://www.jefferies.com,JEF,0.125,2018-10-25,2018-11-19,2018-11-16,2018-11-30
+Oshkosh Corp,http://www.oshkoshcorp.com,OSK,0.27,2018-11-01,2018-11-19,2018-11-16,2018-12-03
+Phillips 66,http://www.phillips66.com,PSX,0.8,2018-10-05,2018-11-19,2018-11-16,2018-12-03
+Quad/Graphics Inc,http://www.qg.com,QUAD,0.3,2018-11-02,2018-11-19,2018-11-16,2018-12-07
+Ryder System Inc,http://www.ryder.com,R,0.54,2018-10-05,2018-11-19,2018-11-16,2018-12-21
+Sleep Country Canada Holdings Inc,,ZZZ:CA,0.185,2018-11-01,2018-11-19,2018-11-16,2018-11-29
+Southern Co,http://www.southerncompany.com,SO,0.6,2018-10-15,2018-11-19,2018-11-16,2018-12-06
+Symantec Corp,http://www.symantec.com,SYMC,0.075,2018-11-01,2018-11-19,2018-11-16,2018-12-12
+Tiptree Inc,http://www.tiptreeinc.com,TIPT,0.035,2018-11-05,2018-11-19,2018-11-16,2018-11-26
+Aflac Inc,http://www.aflac.com,AFL,0.26,2018-10-24,2018-11-21,2018-11-20,2018-12-03
+Autoliv Inc,http://www.autoliv.com,ALV,0.62,2018-08-15,2018-11-21,2018-11-20,2018-12-06
+Capitala Finance Corp,http://www.capitalagroup.com,CPTA,0.0833,2018-10-01,2018-11-21,2018-11-20,2018-11-29
+Discover Financial Services,http://www.discover.com,DFS,0.4,2018-10-18,2018-11-21,2018-11-20,2018-12-06
+Hawaiian Electric Industries Inc,http://www.hei.com,HE,0.31,2018-11-01,2018-11-21,2018-11-20,2018-12-11
+Hershey Co,http://www.thehersheycompany.com,HSY,0.722,2018-10-25,2018-11-21,2018-11-20,2018-12-14
+Hometrust Bancshares Inc,http://www.htb.com,HTBI,0.06,2018-11-01,2018-11-21,2018-11-20,2018-12-06
+LTC Properties Inc,http://www.LTCreit.com,LTC,0.19,2018-10-01,2018-11-21,2018-11-20,2018-11-30
+Marathon Oil Corp,http://www.marathonoil.com,MRO,0.05,2018-10-30,2018-11-21,2018-11-20,2018-12-10
+Marathon Petroleum Corp,http://www.marathonpetroleum.com,MPC,0.46,2018-10-31,2018-11-21,2018-11-20,2018-12-10
+Moody's Corp,http://www.moodys.com,MCO,0.44,2018-10-23,2018-11-21,2018-11-20,2018-12-12
+Nielsen Holdings PLC,http://www.nielsen.com,NLSN,0.35,2018-10-19,2018-11-21,2018-11-20,2018-12-05
+Nordic American Tanker Ltd,http://www.nat.bm,NAT,0.01,2018-11-01,2018-11-21,2018-11-20,2018-12-07
+Panhandle Oil and Gas Inc,http://www.panhandleoilandgas.com,PHX,0.04,2018-10-26,2018-11-21,2018-11-20,2018-12-06
+Spectra Energy Partners LP,http://www.spectraenergypartners.com,SEP,0.77625,2018-11-01,2018-11-21,2018-11-20,2018-11-29
+Target Corp,http://investors.target.com,TGT,0.64,2018-09-19,2018-11-21,2018-11-20,2018-12-10
+Vulcan Materials Co,http://www.vulcanmaterials.com,VMC,0.28,2018-10-12,2018-11-21,2018-11-20,2018-12-07
+Alaska Air Group Inc,http://www.alaskaair.com,ALK,0.32,2018-11-01,2018-11-20,2018-11-19,2018-12-06
+Apollo Global Management LLC,http://www.apollo.com,APO,0.46,2018-10-31,2018-11-20,2018-11-19,2018-11-30
+Brunswick Corp,http://www.brunswick.com,BC,0.21,2018-10-16,2018-11-20,2018-11-19,2018-12-14
+Cable ONE Inc,http://www.cableone.net,CABO,2,2018-11-05,2018-11-20,2018-11-19,2018-12-07
+Cognizant Technology Solutions Corp,http://www.cognizant.com,CTSH,0.2,2018-10-30,2018-11-20,2018-11-19,2018-11-30
+Core-Mark Holding Company Inc,http://www.core-mark.com,CORE,0.11,2018-11-06,2018-11-20,2018-11-19,2018-12-14
+Crawford & Co,http://www.crawfordandcompany.com,CRD/B,0.05,2018-11-05,2018-11-20,2018-11-19,2018-12-06
+Fortis Inc,,FTS:CA,0.45,2018-10-15,2018-11-20,2018-11-19,2018-12-01
+Gladstone Capital Corp,http://www.gladstonecapital.com,GLAD,0.07,2018-10-09,2018-11-20,2018-11-19,2018-11-30
+Gladstone Commercial Corp,http://www.gladstonecommercial.com,GOOD,0.125,2018-10-09,2018-11-20,2018-11-19,2018-11-30
+Gladstone Investment Corp,http://www.gladstoneinvestment.com,GAIN,0.068,2018-10-09,2018-11-20,2018-11-19,2018-11-30
+Gladstone Land Corp,http://www.gladstoneland.com,LAND,0.0444,2018-10-09,2018-11-20,2018-11-19,2018-11-30
+LeMaitre Vascular Inc,http://www.lemaitre.com,LMAT,0.07,2018-10-04,2018-11-20,2018-11-19,2018-12-06
+Main Street Capital Corp,http://www.mainstcapital.com,MAIN,0.195,2018-08-01,2018-11-20,2018-11-19,2018-12-14
+Manulife Financial Corp,,MFC:CA,0.25,2018-11-01,2018-11-20,2018-11-19,2018-12-19
+Olympia Financial Group Inc,,OLY:CA,0.2,2018-11-06,2018-11-20,2018-11-19,2018-11-30
+Ormat Technologies Inc,http://www.ormat.com,ORA,0.1,2018-11-06,2018-11-20,2018-11-19,2018-12-04
+PacWest Bancorp,http://www.pacwestbancorp.com,PACW,0.6,2018-11-05,2018-11-20,2018-11-19,2018-11-30
+Summit State Bank,http://www.summitstatebank.com,SSBI,0.12,2018-10-23,2018-11-20,2018-11-19,2018-11-27
+TechnipFMC PLC,http://www.technipfmc.com,FTI,0.13,2018-10-23,2018-11-20,2018-11-19,2018-12-05
+TransAct Technologies Inc,http://www.transact-tech.com,TACT,0.09,2018-11-05,2018-11-20,2018-11-19,2018-12-14
+Valero Energy Corp,http://www.valero.com,VLO,0.8,2018-10-31,2018-11-20,2018-11-19,2018-12-12
+Zoetis Inc,http://www.zoetis.com,ZTS,0.126,2018-10-10,2018-11-20,2018-11-19,2018-12-03
+Allegiant Travel Co,http://ir.allegiantair.com,ALGT,0.7,2018-10-24,2018-11-23,2018-11-21,2018-12-05
+Applied Materials Inc,http://www.appliedmaterials.com,AMAT,0.2,2018-09-06,2018-11-23,2018-11-21,2018-12-13
+Carnival Corp,http://www.carnival.com,CCL,0.5,2018-10-17,2018-11-23,2018-11-21,2018-12-14
+Finning International Inc,,FTT:CA,0.2,2018-11-05,2018-11-22,2018-11-21,2018-12-06
+FLIR Systems Inc,http://www.flir.com,FLIR,0.16,2018-10-30,2018-11-23,2018-11-21,2018-12-07
+Forward Air Corp,http://www.forwardair.com,FWRD,0.18,2018-10-24,2018-11-23,2018-11-21,2018-12-07
+Harris Corp,http://www.harris.com,HRS,0.685,2018-10-26,2018-11-23,2018-11-21,2018-12-07
+Healthcare Services Group Inc,http://www.hcsg.com,HCSG,0.195,2018-10-16,2018-11-23,2018-11-21,2018-12-28
+Oxford Lane Capital Corp,,OXLC,0.135,2018-08-07,2018-11-23,2018-11-21,2018-11-30
+Robert Half International Inc,http://www.roberthalf.com,RHI,0.28,2018-10-30,2018-11-23,2018-11-21,2018-12-14
+United States Lime & Minerals Inc,http://www.uslm.com,USLM,0.135,2018-10-30,2018-11-23,2018-11-21,2018-12-14
+AltaGas Ltd,,ALA:CA,0.1825,2018-10-30,2018-11-26,2018-11-23,2018-12-17
+CDW Corp,http://www.cdw.com,CDW,0.295,2018-10-31,2018-11-26,2018-11-23,2018-12-10
+Dunkin' Brands Group Inc,http://www.dunkinbrands.com,DNKN,0.3475,2018-10-25,2018-11-26,2018-11-23,2018-12-05
+First Hawaiian Inc,http://www.fhb.com,FHB,0.24,2018-10-25,2018-11-26,2018-11-23,2018-12-07
+Husky Energy Inc,,HSE:CA,0.125,2018-10-25,2018-11-26,2018-11-23,2019-01-02
+Marcus Corp,http://www.marcuscorp.com,MCS,0.15,2018-11-01,2018-11-26,2018-11-23,2018-12-17
+MKS Instruments Inc,http://www.mksinst.com,MKSI,0.2,2018-10-30,2018-11-26,2018-11-23,2018-12-07
+Blackbaud Inc,http://www.blackbaud.com,BLKB,0.12,2018-10-29,2018-11-28,2018-11-27,2018-12-14
+Hyatt Hotels Corp,http://www.hyatt.com,H,0.15,2018-10-30,2018-11-28,2018-11-27,2018-12-10
+Phibro Animal Health Corp,http://www.pahc.com,PAHC,0.12,2018-11-05,2018-11-28,2018-11-27,2018-12-19
+Piper Jaffray Companies,http://www.piperjaffray.com,PJC,0.375,2018-10-26,2018-11-28,2018-11-27,2018-12-14
+PVH Corp,http://www.pvh.com,PVH,0.0375,2018-10-26,2018-11-28,2018-11-27,2018-12-21
+S&P Global Inc,http://www.spglobal.com,SPGI,0.5,2018-10-29,2018-11-28,2018-11-27,2018-12-12
+STERIS plc,http://www.steris.com,STE,0.34,2018-11-06,2018-11-28,2018-11-27,2018-12-21
+Barnes Group Inc,http://www.barnesgroupinc.com,B,0.16,2018-10-18,2018-11-27,2018-11-26,2018-12-10
+CRA International Inc,http://www.charlesriverassociates.com,CRAI,0.2,2018-11-01,2018-11-27,2018-11-26,2018-12-21
+Educational Development Corp,http://www.edcpub.com,EDUC,0.05,2018-10-16,2018-11-27,2018-11-26,2018-12-13
+Johnson & Johnson,http://www.jnj.com,JNJ,0.9,2018-10-18,2018-11-27,2018-11-26,2018-12-11
+Navios Maritime Acquisition Corp,http://www.navios-acquisition.com,NNA,0.02,2018-11-06,2018-11-27,2018-11-26,2018-12-05
+Yum China Holdings Inc,http://www.yumchina.com,YUMC,0.12,2018-10-30,2018-11-27,2018-11-26,2018-12-18
+Maxim Integrated Products Inc,http://www.maximintegrated.com,MXIM,0.46,2018-10-30,2018-11-29,2018-11-28,2018-12-13
+ACCO Brands Corp,http://www.accobrands.com,ACCO,0.06,2018-10-30,2018-11-30,2018-11-29,2018-12-19
+ACNB Corp,http://www.acnb.com,ACNB,0.23,2018-10-29,2018-11-30,2018-11-29,2018-12-14
+Acushnet Holdings Corp,http://www.acushnetholdingscorp.com,GOLF,0.13,2018-11-02,2018-11-30,2018-11-29,2018-12-14
+Ag Growth International Inc,,AFN:CA,0.2,2018-08-09,2018-11-30,2018-11-29,2018-12-14
+Agnico Eagle Mines Ltd,,AEM:CA,0.11,2018-02-14,2018-11-30,2018-11-29,2018-12-14
+Aircastle Ltd,http://www.aircastle.com,AYR,0.3,2018-11-01,2018-11-30,2018-11-29,2018-12-14
+AltaGas Canada Inc,,ACI:CA,0.1744,2018-10-31,2018-11-30,2018-11-29,2018-12-31
+American Core Sectors Dividend Fund,,ACZ_UN:CA,0.04583,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Arch Coal Inc,http://www.archcoal.com,ARCH,0.4,2018-10-23,2018-11-30,2018-11-29,2018-12-14
+Argo Group International Holdings Ltd,http://www.argolimited.com,ARGO,0.27,2018-11-06,2018-11-30,2018-11-29,2018-12-14
+Arrow Financial Corp,http://www.arrowfinancial.com,AROW,0.26,2018-10-31,2018-11-30,2018-11-29,2018-12-14
+Atrium Mortgage Investment Corp,,AI:CA,0.075,2018-11-01,2018-11-30,2018-11-29,2018-12-12
+Bank of Hawaii Corp,http://www.boh.com,BOH,0.62,2018-10-22,2018-11-30,2018-11-29,2018-12-14
+Bank of the James,http://www.bankofthejames.bank,BOTJ,0.06,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Barrick Gold Corp,,ABX:CA,0.03,2018-10-24,2018-11-30,2018-11-29,2018-12-17
+Big 5 Sporting Goods Corp,http://www.big5sportinggoods.com,BGFV,0.05,2018-10-30,2018-11-30,2018-11-29,2018-12-14
+Bloom Select Income Fund,,BLB_UN:CA,0.041666,2018-08-02,2018-11-30,2018-11-29,2018-12-17
+Bloom U.S. Income & Growth Fund,,BUA_UN:CA,0.05,2018-08-02,2018-11-30,2018-11-29,2018-12-17
+Blue Ribbon Income Fund,,RBN_UN:CA,0.05,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Brookfield Business Partners LP,,BBU_UN:CA,0.0625,2018-11-02,2018-11-30,2018-11-29,2018-12-31
+Brookfield Infrastructure Partners LP,http://www.brookfieldinfrastructure.com,BIP,0.47,2018-11-02,2018-11-30,2018-11-29,2018-12-31
+Brookfield Property Partners LP,http://bpy.brookfield.com,BPY,0.315,2018-11-01,2018-11-30,2018-11-29,2018-12-31
+Brookfield Renewable Partners LP,,BEP_UN:CA,0.49,2018-04-06,2018-11-30,2018-11-29,2018-12-31
+Cameco Corp,,CCO:CA,0.08,2017-11-08,2018-11-30,2018-11-29,2018-12-14
+Canadian General Investments Ltd,,CGI:CA,0.19,2018-10-17,2018-11-30,2018-11-29,2018-12-15
+Canadian High Income Equity Fund,,CIQ_UN:CA,0.05,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Canadian Preferred Securities Trust,,PFT_UN:CA,0.0333,2018-09-17,2018-11-30,2018-11-29,2018-12-14
+Canso Credit Income Fund,,PBY_UN:CA,0.04166,2018-09-13,2018-11-30,2018-11-29,2018-12-17
+CatchMark Timber Trust Inc,http://www.catchmark.com,CTT,0.135,2018-11-01,2018-11-30,2018-11-29,2018-12-13
+Cboe Global Markets Inc,http://www.cboe.com,CBOE,0.31,2018-10-30,2018-11-30,2018-11-29,2018-12-14
+Central Pacific Financial Corp,http://www.centralpacificbank.com,CPF,0.21,2018-10-24,2018-11-30,2018-11-29,2018-12-17
+Citadel Income Fund,,CTF_UN:CA,0.01,2018-01-12,2018-11-30,2018-11-29,2018-12-17
+Coca-Cola Co,http://www.coca-colacompany.com,KO,0.39,2018-10-18,2018-11-30,2018-11-29,2018-12-14
+Colony Credit Real Estate Inc,http://www.clncredit.com,CLNC,0.145,2018-11-06,2018-11-30,2018-11-29,2018-12-10
+Commerce Bancshares Inc,http://www.commercebank.com,CBSH,0.235,2018-10-26,2018-11-30,2018-11-29,2018-12-17
+Crane Co,http://www.craneco.com,CR,0.35,2018-10-22,2018-11-30,2018-11-29,2018-12-10
+Crius Energy Trust,,KWH_UN:CA,0.0697,2018-10-10,2018-11-30,2018-11-29,2018-12-17
+CSS Industries Inc,http://www.cssindustries.com,CSS,0.2,2018-10-31,2018-11-30,2018-11-29,2018-12-14
+CSX Corp,http://www.csx.com,CSX,0.22,2018-10-03,2018-11-30,2018-11-29,2018-12-14
+Cullen/Frost Bankers Inc,http://www.frostbank.com,CFR,0.67,2018-10-31,2018-11-30,2018-11-29,2018-12-14
+Dover Corp,http://www.dovercorporation.com,DOV,0.48,2018-11-01,2018-11-30,2018-11-29,2018-12-17
+DowDuPont Inc,http://www.dow-dupont.com,DWDP,0.38,2018-10-11,2018-11-30,2018-11-29,2018-12-14
+E Split Corp,,ENS:CA,0.1,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+East Coast Investment Grade Income Fund,,ECF_UN:CA,0.04,2018-10-16,2018-11-30,2018-11-29,2018-12-14
+Eclipse Residential Mortgage Investment Corp,,ERM:CA,0.0625,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Ellington Financial LLC,http://www.ellingtonfinancial.com,EFC,0.41,2018-10-31,2018-11-30,2018-11-29,2018-12-17
+Energy Income Fund,,ENI_UN:CA,0.01,2018-01-12,2018-11-30,2018-11-29,2018-12-17
+Estee Lauder Companies Inc,http://www.elcompanies.com,EL,0.43,2018-10-31,2018-11-30,2018-11-29,2018-12-17
+European Dividend Growth Fund,,EDGF_UN:CA,0.0416,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Firm Capital Mortgage Investment Corp,,FC:CA,0.078,2018-10-12,2018-11-30,2018-11-29,2018-12-17
+Firm Capital Property Trust,,FCD_UN:CA,0.038333,2018-08-03,2018-11-30,2018-11-29,2018-12-14
+First Financial Northwest Inc,http://www.ffnwb.com,FFNW,0.08,2018-10-25,2018-11-30,2018-11-29,2018-12-14
+First National Financial Corp,,FN:CA,1,2018-10-30,2018-11-30,2018-11-29,2018-12-17
+First Northwest Bancorp,http://www.ourfirstfed.com,FNWB,0.03,2018-10-30,2018-11-30,2018-11-29,2018-12-14
+Flaherty & Crumrine Investment Grade Fixed Income Fund,,FFI_UN:CA,0.07,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Fortune Brands Home & Security Inc,http://www.fbhs.com,FBHS,0.2,2018-09-24,2018-11-30,2018-11-29,2018-12-19
+Global Dividend Growers Income Fund,,GDG_UN:CA,0.055,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Global Innovation Dividend Fund,,BL_UN:CA,0.033,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Global Real Estate Dividend Growers Corp,,GRL:CA,0.05,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Goldman Sachs Group Inc,http://www.goldmansachs.com,GS,0.8,2018-10-16,2018-11-30,2018-11-29,2018-12-28
+GrafTech International Ltd,http://www.graftech.com,EAF,0.085,2018-11-02,2018-11-30,2018-11-29,2018-12-31
+Great Elm Capital Corp,http://www.greatelmcc.com,GECC,0.083,2018-08-10,2018-11-30,2018-11-29,2018-12-14
+Herman Miller Inc,http://www.hermanmiller.com,MLHR,0.1975,2018-10-16,2018-12-01,2018-11-29,2019-01-15
+Hubbell Inc,http://www.hubbell.com,HUBB,0.84,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Investment Grade Infrastructure Bond Fund,,IFB_UN:CA,0.04166,2018-09-17,2018-11-30,2018-11-29,2018-12-14
+Manulife Floating Rate Senior Loan Fund,,MFR_UN:CA,0.05625,2018-09-19,2018-11-30,2018-11-29,2018-12-14
+Manulife U.S. Regional Bank Trust,,MBK_UN:CA,0.0416,2018-09-19,2018-11-30,2018-11-29,2018-12-14
+Melcor Real Estate Investment Trust,,MR_UN:CA,0.05625,2018-10-15,2018-11-30,2018-11-29,2018-12-17
+Mesa Laboratories Inc,http://www.mesalabs.com,MLAB,0.16,2018-10-02,2018-11-30,2018-11-29,2018-12-17
+MGE Energy Inc,http://www.mgeenergy.com,MGEE,0.3375,2018-10-19,2018-12-01,2018-11-29,2018-12-15
+Middlefield Can-Global REIT Income Fund,,RCO_UN:CA,0.05416,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Middlefield Healthcare & Life Sciences Dividend Fund,,LS_UN:CA,0.04167,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Middlefield Healthcare & Wellness Dividend Fund,,HWF_UN:CA,0.04167,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Midwestone Financial Group Inc,http://www.midwestone.com,MOFG,0.195,2018-10-17,2018-12-01,2018-11-29,2018-12-17
+MINT Income Fund,,MID_UN:CA,0.04,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+NBT Bancorp Inc,http://www.nbtbancorp.com,NBTB,0.26,2018-10-22,2018-11-30,2018-11-29,2018-12-14
+Nextera Energy Inc,http://www.nexteraenergy.com,NEE,1.11,2018-10-12,2018-11-30,2018-11-29,2018-12-17
+Nexus Real Estate Investment Trust,,NXR_UN:CA,0.01333,2018-10-22,2018-11-30,2018-11-29,2018-12-14
+Norbord Inc,,OSB:CA,0.6,2018-11-01,2018-12-01,2018-11-29,2018-12-21
+North American Construction Group Ltd,,NOA:CA,0.02,2018-10-30,2018-11-30,2018-11-29,2019-01-04
+North American Preferred Share Fund,,NPF_UN:CA,0.1146,2018-09-17,2018-11-30,2018-11-29,2018-12-14
+Open Text Corp,,OTEX:CA,0.1518,2018-10-31,2018-11-30,2018-11-29,2018-12-20
+Pathfinder Income Fund,,PCD_UN:CA,0.05,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Peoples Financial Services Corp,http://www.psbt.com,PFIS,0.33,2018-10-26,2018-11-30,2018-11-29,2018-12-14
+Perrigo Company PLC,http://www.perrigo.com,PRGO,0.19,2018-10-31,2018-11-30,2018-11-29,2018-12-18
+Peyto Exploration & Development Corp,,PEY:CA,0.06,2018-10-15,2018-11-30,2018-11-29,2018-12-14
+Piedmont Office Realty Trust Inc,http://www.piedmontreit.com,PDM,0.21,2018-10-31,2018-11-30,2018-11-29,2019-01-03
+Power Integrations Inc,http://www.power.com,POWI,0.16,2018-10-25,2018-11-30,2018-11-29,2018-12-31
+Real Asset Income and Growth Fund,,RAI_UN:CA,0.04167,2018-09-17,2018-11-30,2018-11-29,2018-12-14
+REIT INDEXPLUS Income Fund,,IDR_UN:CA,0.065,2018-10-19,2018-11-30,2018-11-29,2018-12-14
+Savings Bank,,SCIV,0.15,2018-10-29,2018-12-01,2018-11-29,2018-12-15
+Savings Bank,,SCIV,0.7,2018-10-30,2018-12-01,2018-11-29,2018-12-15
+Senior Secured Floating Rate Loan Fund,,FRL_UN:CA,0.054167,2018-09-17,2018-11-30,2018-11-29,2018-12-14
+Spark Energy Inc,http://www.sparkenergy.com,SPKE,0.18125,2018-10-18,2018-11-30,2018-11-29,2018-12-14
+STAG Industrial Inc,http://www.stagindustrial.com,STAG,0.118333,2018-10-10,2018-11-30,2018-11-29,2018-12-17
+Stanley Black & Decker Inc,http://www.stanleyblackanddecker.com,SWK,0.66,2018-10-18,2018-11-30,2018-11-29,2018-12-18
+Stellus Capital Investment Corp,http://www.stelluscapital.com,SCM,0.1133,2018-10-17,2018-11-30,2018-11-29,2018-12-14
+Stepan Co,http://www.stepan.com,SCL,0.25,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Symphony Floating Rate Senior Loan Fund,,SSF_UN:CA,0.05,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Taylor North American Equity Opportunities Fund,,TOF_UN:CA,0.052,2018-10-24,2018-11-30,2018-11-29,2018-12-14
+Top 20 US Dividend Trust,,TUT_UN:CA,0.0417,2018-10-18,2018-11-30,2018-11-29,2018-12-14
+Triplepoint Venture Growth BDC Corp,http://www.tpvg.com,TPVG,0.36,2018-11-02,2018-11-30,2018-11-29,2018-12-14
+Trustmark Corp,http://www.trustmark.com,TRMK,0.23,2018-10-23,2018-12-01,2018-11-29,2018-12-15
+Tsakos Energy Navigation Ltd,http://www.tenn.gr,TNP,0.05,2018-09-07,2018-11-30,2018-11-29,2018-12-06
+TWC Enterprises Ltd,,TWC:CA,0.02,2018-11-05,2018-11-30,2018-11-29,2018-12-14
+Tyson Foods Inc,http://www.tysonfoods.com,TSN,0.3,2018-08-09,2018-11-30,2018-11-29,2018-12-14
+United Bancshares Inc,http://www.theubank.com,UBOH,0.12,2018-10-22,2018-11-30,2018-11-29,2018-12-17
+Universal Forest Products Inc,http://www.ufpi.com,UFPI,0.18,2018-10-17,2018-12-01,2018-11-29,2018-12-15
+Voya Financial Inc,http://www.voya.com,VOYA,0.01,2018-10-25,2018-11-30,2018-11-29,2018-12-27
+Watts Water Technologies Inc,http://www.wattswater.com,WTS,0.21,2018-11-02,2018-11-30,2018-11-29,2018-12-14
+Associated Banc-Corp,http://www.associatedbank.com,ASB,0.17,2018-10-23,2018-12-03,2018-11-30,2018-12-17
+Ball Corp,http://www.ball.com,BLL,0.1,2018-10-24,2018-12-03,2018-11-30,2018-12-17
+Boise Cascade Co,http://www.bc.com,BCC,0.09,2018-11-02,2018-12-03,2018-11-30,2018-12-17
+Cadence Bancorp,http://www.cadencebank.com,CADE,0.15,2018-10-22,2018-12-03,2018-11-30,2018-12-17
+Clearway Energy Inc,http://investor.clearwayenergy.com,CWEN/A,0.331,2018-11-06,2018-12-03,2018-11-30,2018-12-17
+Cooper Tire & Rubber Co,http://www.coopertire.com,CTB,0.105,2018-10-26,2018-12-03,2018-11-30,2018-12-28
+Diamond Hill Investment Group Inc,http://www.diamond-hill.com,DHIL,8,2018-10-30,2018-12-03,2018-11-30,2018-12-11
+Ensco PLC,http://www.enscoplc.com,ESV,0.01,2018-11-06,2018-12-03,2018-11-30,2018-12-14
+F.N.B. Corp,http://www.fnb-online.com,FNB,0.12,2018-10-17,2018-12-03,2018-11-30,2018-12-15
+First Financial Bancorp,http://www.bankatfirst.com,FFBC,0.2,2018-10-23,2018-12-03,2018-11-30,2018-12-17
+FNCB Bancorp Inc,http://www.fncb.com,FNCB,0.05,2018-10-31,2018-12-03,2018-11-30,2018-12-17
+FutureFuel Corp,http://www.futurefuelcorporation.com,FF,0.06,2017-12-06,2018-12-03,2018-11-30,2018-12-17
+Great-West Lifeco Inc,,GWO:CA,0.389,2018-10-31,2018-12-03,2018-11-30,2018-12-31
+H & R Block Inc,http://www.hrblock.com,HRB,0.25,2018-11-01,2018-12-03,2018-11-30,2019-01-02
+Hartford Financial Services Group Inc,http://www.thehartford.com,HIG,0.3,2018-10-18,2018-12-03,2018-11-30,2019-01-02
+HCA Healthcare Inc,http://www.hcahealthcare.com,HCA,0.35,2018-10-30,2018-12-03,2018-11-30,2018-12-28
+Houlihan Lokey Inc,http://www.hl.com,HLI,0.27,2018-10-25,2018-12-03,2018-11-30,2018-12-14
+Imperial Oil Ltd,,IMO:CA,0.19,2018-11-02,2018-12-03,2018-11-30,2019-01-01
+Kellogg Co,http://www.kelloggcompany.com,K,0.56,2018-10-19,2018-12-03,2018-11-30,2018-12-17
+Lockheed Martin Corp,http://www.lockheedmartin.com,LMT,2.2,2018-09-27,2018-12-03,2018-11-30,2018-12-28
+Mcdonald's Corp,http://www.aboutmcdonalds.com,MCD,1.16,2018-09-20,2018-12-03,2018-11-30,2018-12-17
+McKesson Corp,http://www.mckesson.com,MCK,0.39,2018-10-25,2018-12-03,2018-11-30,2019-01-02
+Metalla Royalty & Streaming Ltd,,MTA:CA,0.0015,2018-09-17,2018-12-03,2018-11-30,2018-12-17
+Nathan's Famous Inc,http://www.nathansfamous.com,NATH,0.25,2018-11-02,2018-12-03,2018-11-30,2018-12-14
+Old National Bancorp,http://www.oldnational.com,ONB,0.13,2018-10-25,2018-12-03,2018-11-30,2018-12-17
+Pennsylvania Real Estate Investment Trust,http://www.preit.com,PEI,0.21,2018-10-23,2018-12-03,2018-11-30,2018-12-17
+Polaris Industries Inc,http://www.polaris.com,PII,0.6,2018-10-24,2018-12-03,2018-11-30,2018-12-17
+Principal Financial Group Inc,http://www.principal.com,PFG,0.54,2018-10-26,2018-12-03,2018-11-30,2018-12-28
+Progress Software Corp,http://www.progress.com,PRGS,0.155,2018-09-27,2018-12-03,2018-11-30,2018-12-17
+Safety Insurance Group Inc,http://www.safetyinsurance.com,SAFT,0.8,2018-10-31,2018-12-03,2018-11-30,2018-12-14
+Stella-Jones Inc,,SJ:CA,0.12,2018-11-02,2018-12-03,2018-11-30,2018-12-20
+TransAlta Corp,,TA:CA,0.04,2018-10-10,2018-12-03,2018-11-30,2019-01-01
+Triton International Ltd,http://www.trtn.com,TRTN,0.52,2018-11-02,2018-12-03,2018-11-30,2018-12-20
+Wendys Co,http://www.wendys.com/en-us/about-wendys,WEN,0.085,2018-11-01,2018-12-03,2018-11-30,2018-12-17
+Anthem Inc,http://www.antheminc.com,ANTM,0.75,2018-10-31,2018-12-05,2018-12-04,2018-12-21
+Avery Dennison Corp,http://www.averydennison.com,AVY,0.52,2018-10-25,2018-12-05,2018-12-04,2018-12-19
+DXC Technology Co,http://www.dxc.technology,DXC,0.19,2018-10-11,2018-12-05,2018-12-04,2019-01-15
+EnPro Industries Inc,http://www.enproindustries.com,NPO,0.24,2018-10-31,2018-12-05,2018-12-04,2018-12-19
+Greenhill & Co Inc,http://www.greenhill.com,GHL,0.05,2018-10-24,2018-12-05,2018-12-04,2018-12-19
+Hancock Whitney Corp,http://www.hancockwhitney.com,HWC,0.27,2018-10-29,2018-12-05,2018-12-04,2018-12-14
+Juniper Networks Inc,http://www.juniper.net,JNPR,0.18,2018-10-23,2018-12-05,2018-12-04,2018-12-26
+PJT Partners Inc,http://www.pjtpartners.com,PJT,0.05,2018-10-30,2018-12-05,2018-12-04,2018-12-19
+Schlumberger NV,http://www.slb.com,SLB,0.5,2018-10-19,2018-12-05,2018-12-04,2019-01-11
+Scorpio Tankers Inc,http://www.scorpiotankers.com,STNG,0.01,2018-10-31,2018-12-05,2018-12-04,2018-12-13
+Cass Information Systems Inc,http://www.cassinfo.com,CASS,0.26,2018-10-25,2018-12-04,2018-12-03,2018-12-14
+Cedar Fair LP,http://www.cedarfair.com,FUN,0.925,2018-10-30,2018-12-04,2018-12-03,2018-12-17
+CompX International Inc,http://www.compx.com,CIX,0.05,2018-11-01,2018-12-04,2018-12-03,2018-12-11
+Fluor Corp,http://www.fluor.com,FLR,0.21,2018-10-31,2018-12-04,2018-12-03,2019-01-03
+Kronos Worldwide Inc,http://kronostio2.com,KRO,0.17,2018-10-25,2018-12-04,2018-12-03,2018-12-13
+NIC Inc,http://www.egov.com,EGOV,0.08,2018-11-01,2018-12-04,2018-12-03,2018-12-18
+Saputo Inc,,SAP:CA,0.165,2018-11-01,2018-12-04,2018-12-03,2018-12-14
+Tenneco Inc,http://www.tenneco.com,TEN,0.25,2018-10-10,2018-12-04,2018-12-03,2018-12-21
+Valhi Inc,http://www.valhi.net,VHI,0.02,2018-11-01,2018-12-04,2018-12-03,2018-12-20
+Whitestone REIT,http://www.whitestonereit.com,WSR,0.095,2018-09-19,2018-12-04,2018-12-03,2018-12-13
+Wingstop Inc,http://www.wingstop.com,WING,0.09,2018-10-29,2018-12-04,2018-12-03,2018-12-18
+Franco-Nevada Corp,,FNV:CA,0.24,2018-11-05,2018-12-06,2018-12-05,2018-12-20
+Gladstone Investment Corp,http://www.gladstoneinvestment.com,GAIN,0.06,2018-10-09,2018-12-06,2018-12-05,2018-12-14
+Liberty Oilfield Services Inc,http://www.libertyfrac.com,LBRT,0.05,2018-10-23,2018-12-06,2018-12-05,2018-12-20
+Mosaic Co,http://www.mosaicco.com,MOS,0.025,2018-10-18,2018-12-06,2018-12-05,2018-12-20
+Newmont Mining Corp,http://www.newmont.com,NEM,0.14,2018-10-24,2018-12-06,2018-12-05,2018-12-27
+Old Dominion Freight Line Inc,http://www.odfl.com,ODFL,0.13,2018-11-01,2018-12-06,2018-12-05,2018-12-20
+Patterson-UTI Energy Inc,http://www.patenergy.com,PTEN,0.04,2018-10-25,2018-12-06,2018-12-05,2018-12-20
+Qualcomm Inc,http://www.qualcomm.com,QCOM,0.62,2018-10-23,2018-12-06,2018-12-05,2018-12-20
+Resolute Forest Products Inc,http://www.resolutefp.com,RFP,1.5,2018-11-01,2018-12-06,2018-12-05,2018-12-20
+Travelport Worldwide Ltd,http://www.travelport.com,TVPT,0.075,2018-11-01,2018-12-06,2018-12-05,2018-12-20
+Vishay Intertechnology Inc,http://www.vishay.com,VSH,0.085,2018-10-29,2018-12-06,2018-12-05,2018-12-20
+American National Insurance Co,http://www.americannational.com,ANAT,0.82,2018-10-25,2018-12-07,2018-12-06,2018-12-21
+Arthur J Gallagher & Co,http://www.ajg.com,AJG,0.41,2018-10-24,2018-12-07,2018-12-06,2018-12-21
+Atco Ltd,,ACO_X:CA,0.3766,2018-10-11,2018-12-07,2018-12-06,2018-12-31
+Bank of America Corp,http://www.bankofamerica.com,BAC,0.15,2018-10-24,2018-12-07,2018-12-06,2018-12-28
+Brinker International Inc,http://www.brinker.com,EAT,0.38,2018-10-30,2018-12-07,2018-12-06,2018-12-27
+Canadian National Railway Co,,CNR:CA,0.455,2018-10-23,2018-12-07,2018-12-06,2018-12-28
+Chemical Financial Corp,http://www.chemicalbank.com,CHFC,0.34,2018-10-23,2018-12-07,2018-12-06,2018-12-21
+Churchill Downs Inc,http://www.churchilldownsincorporated.com,CHDN,1.63,2018-10-31,2018-12-07,2018-12-06,2019-01-04
+Citrix Systems Inc,http://www.citrix.com,CTXS,0.35,2018-10-24,2018-12-07,2018-12-06,2018-12-21
+Dominion Energy Inc,http://www.dominionenergy.com,D,0.835,2018-10-31,2018-12-07,2018-12-06,2018-12-20
+Exponent Inc,http://www.exponent.com,EXPO,0.13,2018-10-18,2018-12-07,2018-12-06,2018-12-21
+Fidus Investment Corp,http://www.fdus.com,FDUS,0.39,2018-11-01,2018-12-07,2018-12-06,2018-12-21
