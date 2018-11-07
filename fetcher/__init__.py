@@ -28,6 +28,6 @@ def Fetch(url):
             return f.read().decode('utf-8')
         else:
             # 抛出异常，记录日志
-            raise "1111"
+            raise RuntimeError("fetch error")
 
 

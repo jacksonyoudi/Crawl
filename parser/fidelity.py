@@ -46,11 +46,6 @@ def _puase_date(link):
         return False
 
 
-
-
-
-
-
 def fidelityParse(url="", queue=None, result_queue=None, uniq_urls=None):
     """
     :param url: url
@@ -90,6 +85,8 @@ def fidelityParse(url="", queue=None, result_queue=None, uniq_urls=None):
                 if website_elem:
                     website = th.find("a", href="#").attrs.get("onclick").split(",'")[1].strip("')")
             symbol = tds[0].text.replace("\n", "").replace("\t", "")
+            if len(tds) < 6:
+                continue
             dividend = tds[1].text
             announcement_date = cov_date_format(tds[2].text, source_format, target_format)
             record_date = cov_date_format(tds[3].text, source_format, target_format)
